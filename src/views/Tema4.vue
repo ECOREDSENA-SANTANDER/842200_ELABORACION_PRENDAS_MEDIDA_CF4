@@ -182,7 +182,7 @@
 
     .row.mb-5
       .col-lg-4
-        figure
+        figure.mb-3
           img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='Tipos de mangas')
           figcaption Figura 38, Tipos de mangas.
             p Nota.  SENA (2021)
@@ -227,7 +227,7 @@
 
     p sale según el tipo de plano y línea que se trabaja, es decir, que cada vez que se esté trazando un plano, sobre ese plano con la medida de recorrido de sisa delantera y sisa posterior se identifica la cabeza de manga, la sumatoria de esas dos medidas son divididas de acuerdo con el tipo de prenda, para identificar la cabeza de manga. 
 
-    .row
+    .row.mb-5
       .col-lg-4
         figure.mb-3
           img.img-a(src='@/assets/curso/tema_4/img_26.png', alt='Tipos de mangas')
@@ -272,7 +272,7 @@
 
         p Para el desarrollo del trazo o marcación de cabeza de manga existen infinidad de formas, fórmulas o metodologías; sin embargo, la clasificación anterior hace referencia a lo que se trabaja en el manual, en cualquier línea. Sin importar el tipo de línea es importante que tenga en cuenta siempre la lógica del comportamiento de las cabezas de manga, según el tipo de prenda.
 
-      ol.lista-ol--cuadro
+      ol.lista-ol--cuadro.mt-5
         li 
           .lista-ol--cuadro__vineta
             span 6
@@ -307,7 +307,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/EAl_FBfkYUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .row.justify-content-center
+      .row.justify-content-center.mb-3
         .col-lg-8
           p De igual manera, consulte el manual de patronaje básico para interpretación de diseños, con el fin de que conozca las formas para sacar o deducir la altura de la cabeza de manga, para ello lea las páginas 26 a la 44. 
 
@@ -391,43 +391,50 @@ export default {
       },
       {
         titulo: 'Curva disímil',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_12.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Tipos de escotes',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_13.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Escote cuadrado',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_14.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Escote bandeja',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_15.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Escote en “V”',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_16.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Escote tipo blusa',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_17.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Escote en solapa',
-        texto: '',
+        texto:
+          'Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.<br><br>Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión. <br><br>En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.',
         imagen: require('@/assets/curso/tema_4/img_18.svg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
