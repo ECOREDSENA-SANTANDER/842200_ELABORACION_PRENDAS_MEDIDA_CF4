@@ -67,10 +67,10 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
+        p.BorTit Figura 12, Puntos de referencia para una costura.
         figure
           img(src='@/assets/curso/tema_3/img_4.svg', alt='Bolsillo delantero de jean')
-          figcaption Figura 12. Puntos de referencia para una costura.
-            p Nota. SENA (2021).
+          figcaption Nota. SENA (2021).
 
     .titulo-segundo
       #t_3_2.h2 3.2. Distribución de aumentos de costura
@@ -79,7 +79,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        p.BorTit Tabla 1. Aumentos de costura
+        p.BorTit Tabla 1, Aumentos de costura
         figure
           img(src='@/assets/curso/tema_3/img_5.svg', alt='Aumentos de costura')
           figcaption Nota. Tomados del SENA (2021)
@@ -89,7 +89,7 @@
 
     p.mb-5 A partir de la tipología se adecúan ampliaciones, largos y cortes que dan lugar a la creación de otros básicos que pueden ser utilizados para ser cortados en la tela. Además de lo anterior, es importante conocer los pasos para el pantalón inferior femenino, para el que se debe tener en cuenta las siguientes medidas: largo pantalón, alto del tiro, contorno de cadera y contorno de cintura. 
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
         .row.nav-bg.p-4
           .col-lg-4
@@ -105,6 +105,7 @@
 
     p.mb-5.text-center De igual forma, consulte el siguiente video que le permitirá conocer cómo realizar la base inferior del pantalón femenino.
 
+    p.BorTit Base inferior de pantalón femenino
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/7XPqP_3v0L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -121,20 +122,21 @@
             img.img-a(src="@/assets/curso/tema_3/img_7.png")
         
           .col-md-6
-             ol.lista-ol--cuadro.mb-5
+            ol.lista-ol--cuadro.mb-0
               li 
                 .lista-ol--cuadro__vineta
                   span 1
                 p Trazar un rectángulo con las medidas correspondientes del cliente:
-
-              ul.lista-ul--color
-                li 
-                  i.lista-ul__vineta
-                  | Ancho: contorno de cadera/ 4 + costura.
-                li 
-                  i.lista-ul__vineta
-                  | Largo: altura de tiro o largo de tiro.
-
+            .row.justify-content-center
+              .col-lg-11
+                ul.lista-ul--color
+                  li 
+                    i.lista-ul__vineta
+                    | Ancho: contorno de cadera/ 4 + costura.
+                  li 
+                    i.lista-ul__vineta
+                    | Largo: altura de tiro o largo de tiro.
+            ol.lista-ol--cuadro.mb-5
               li 
                 .lista-ol--cuadro__vineta
                   span 2
@@ -153,15 +155,15 @@
       .py-3.py-md-4(titulo="Segunda parte")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
+            p.BorTit Línea de tiro
             figure.mb-5
               img(src='@/assets/curso/tema_3/img_8.svg', alt='Texto que describa la imagen')
-              figcaption Figura 13, División en línea de tiro
-                p Nota.  SENA (2021)
+              figcaption Nota.  SENA (2021)
 
+            p.BorTit División en línea de tiro
             figure
               img(src='@/assets/curso/tema_3/img_9.png', alt='Texto que describa la imagen')
-              figcaption Figura 14, División en línea de tiro
-                p Nota. SENA (2021)
+              figcaption Nota. SENA (2021)
         
           .col-md-6
             ol.lista-ol--cuadro.mb-5
@@ -176,10 +178,10 @@
                   p #[strong Gancho o amplitud de tiro]: ancho del rectángulo base/4 = constante de 0 - 1.5 cm, es decir, que inicia desde 0, restando 1.5 cm.
                 li 
                   i.lista-ul__vineta
-                  p Sobre la línea de tiro por centro frente se prolonga la medida o el resultado de la fórmula. Todo lo anterior tal como se ilustra en la figura 13.
+                  p Sobre la línea de tiro por centro frente se prolonga la medida o el resultado de la fórmula. Todo lo anterior tal como se ilustra en la imagen línea de tiro.
                 li 
                   i.lista-ul__vineta
-                  p #[strong Conocer la línea de aplome]: corresponde a la alineación de todo el pantalón. Para esto se debe trazar ½ de medida por la línea de tiro, incluyendo la extensión o gancho de tiro, como se muestra en la figura 14.
+                  p #[strong Conocer la línea de aplome]: corresponde a la alineación de todo el pantalón. Para esto se debe trazar ½ de medida por la línea de tiro, incluyendo la extensión o gancho de tiro, como se muestra en la imagen división en línea de tiro.
                 li 
                   i.lista-ul__vineta
                   p #[strong Largos]: entre la línea de tiro y la línea de largo total, aparece la línea de altura de rodilla.
@@ -208,33 +210,36 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 7
-                p Definir curva de cadera: unir desde el punto de cintura costado en línea curva hasta la línea base de costado, suavizando la unión.
+                p #[strong Definir curva de cadera]: unir desde el punto de cintura costado en línea curva hasta la línea base de costado, suavizando la unión.
 
       .py-3.py-md-4(titulo="Cuarta parte")
         .row.justify-content-center
           .col-md-3.mb-4.mb-md-0
+            p.BorTit División en bota
             figure.mb-5
               img(src='@/assets/curso/tema_3/img_11.png', alt='División en bota')
-              figcaption Figura 15, División en bota
-                p Nota.  SENA (2021)
+              figcaption Nota. SENA (2021)
 
+            p.BorTit Aumento en bota
             figure
               img(src='@/assets/curso/tema_3/img_12.png', alt='Aumento en bota')
-              figcaption Figura 16, Aumento en bota
-                p Nota. SENA (2021)
+              figcaption Nota. SENA (2021)
         
           .col-md-6
-            ol.lista-ol--cuadro.mb-5
+            ol.lista-ol--cuadro.mb-0
               li 
                 .lista-ol--cuadro__vineta
                   span 8
-                p #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se observa en las figuras 15 y 16.  
+                p #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se observa en las imagenes división en bota y aumento en bota.  
 
-              ul.lista-ul--color
-                li 
-                  i.lista-ul__vineta
-                  p En este caso (figura 16) para identificar el ancho de rodilla se trabaja con la medida de bota más 1 cm.
-        
+            .row.justify-content-center
+              .col-lg-11
+                ul.lista-ul--color
+                  li 
+                    i.lista-ul__vineta
+                    p En este caso la imagen aumento en bota para identificar el ancho de rodilla se trabaja con la medida de bota más 1 cm.
+
+            ol.lista-ol--cuadro.mb-0
               li 
                 .lista-ol--cuadro__vineta
                   span 9
@@ -280,10 +285,10 @@
       .py-3.py-md-4(titulo="Segunda parte")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
+            p.BorTit Pinza en la cintura
             figure
               img.mb-3(src='@/assets/curso/tema_3/img_14.png', alt='Texto que describa la imagen')
-              figcaption Figura 17, Pinza en la cintura
-                p Nota.  SENA (2021)
+              figcaption Nota.  SENA (2021)
         
           .col-md-6
             ol.lista-ol--cuadro.mb-5
@@ -306,10 +311,10 @@
       .py-3.py-md-4(titulo="Tercera parte")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
+            p.BorTit Ancho de pinza
             figure
               img(src='@/assets/curso/tema_3/img_15.png', alt='Ancho de pinza')
-              figcaption Figura 18, Ancho de pinza
-                p Nota.  SENA (2021)
+              figcaption Nota.  SENA (2021)
         
           .col-md-6
             ol.lista-ol--cuadro.mb-5
@@ -360,17 +365,19 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
+        p.BorTit Figura 19, Tipologías de pantalón según largo
         figure
           img(src='@/assets/curso/tema_3/img_16.svg', alt='Ancho de pinza')
-          figcaption Figura 19. Tipologías de pantalón según largo
-            p Nota. Carrera de diseño y gestión de moda (2015).
+          figcaption Nota. Carrera de diseño y gestión de moda (2015).
               
     p.text-center.mb-5 Consulte el siguiente video con el propósito de que conozca los pasos para la interpretación de prendas inferiores.
 
+    p.BorTit Interpretación de prendas inferiores
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/K2SbwvDv7eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
+    p.BorTit Análisis e interpretación de pantalón sudadera
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/xcUi9S-ZqzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

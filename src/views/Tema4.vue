@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 4
-      h1 El pantalón femenino y sus variantes
+      h1 Taller experimental
 
     img.mb-3(src='@/assets/curso/tema_4/img_1.png', alt='Texto que describa la imagen')
 
@@ -24,7 +24,7 @@
 
     
     .titulo-segundo
-      #t_4_2.h2 4.2 Detalles piezas de diseño desde el molde
+      #t_4_2.h2 4.2 El prense, la tabla y la alforza
 
     p.mb-5 Son aumentos aplicados en los moldes para generar volumen y diseños diferentes en las prendas. A continuación, se relacionan algunos tipos de aumentos. 
 
@@ -38,15 +38,15 @@
         .col-md-6.jumbo_1.p-4.mb-3
           .row.align-items-center
             .col-lg-6
+              p.BorTit Figura 20, Falda con prense cuchilla
               figure
                 img.img-a(src='@/assets/curso/tema_4/img_3.png', alt='Falda con prense cuchilla')
-                figcaption Figura 20, Falda con prense cuchilla
-                  p Nota. The Cutting Class (2021)
+                figcaption Nota. The Cutting Class (2021)
             .col-lg-6
+              p.BorTit Figura 21, Prense cuchilla
               figure
-                img.mb-4(src='@/assets/curso/tema_4/img_4.png', alt='Prense cuchilla')
-                figcaption Figura 21, Prense cuchilla
-                  p Nota.  SENA (2021)
+                img.mb-5(src='@/assets/curso/tema_4/img_4.png', alt='Prense cuchilla')
+                figcaption Nota.  SENA (2021)
 
         p Si ciertos componentes de la fibra se sintetizan artificialmente y los prenses se endurecen por calor, entonces los pliegues realmente permanecerán en la tela. Esta es una de las razones por las que la organización de poliéster puede tener un buen efecto de plisado. Si se requiere lograr el mismo efecto, la tela previamente debe ser enviada a la tintorería y luego ser cortada según el molde. Este efecto de plegado se puede lograr también de forma manual, dependiendo de la tela y de los procesos continuos de planchado.
 
@@ -57,15 +57,15 @@
         .col-md-6.jumbo_1.p-4.mb-3
           .row.align-items-center
             .col-lg-6
+              p.BorTit Figura 22, Prense tabla en falda
               figure
                 img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Falda con prense cuchilla')
-                figcaption Figura 22, Prense tabla en falda
-                  p Nota. The Cutting Class (2021)
+                figcaption Nota. The Cutting Class (2021)
             .col-lg-6
+              p.BorTit Figura 23,  Prense tabla
               figure
                 img.mt-3.mb-5(src='@/assets/curso/tema_4/img_6.png', alt='Prense cuchilla')
-                figcaption Figura 23, Prense tabla
-                  p Nota.  SENA (2021)
+                figcaption Nota.  SENA (2021)
 
       .row(titulo="Las alforzas")
         .col-md-6.mb-4.mb-md-0
@@ -74,15 +74,15 @@
         .col-md-6.jumbo_1.p-4.mb-3
           .row.align-items-center
             .col-lg-6
+              p.BorTit Figura 25, Diseño plano con alforzas
               figure
                 img.img-a.mb-2(src='@/assets/curso/tema_4/img_7.png', alt='Diseño plano con alforzas')
-                figcaption Figura 25, Diseño plano con alforzas
-                  p Nota. Pinterest (2021)
+                figcaption Nota. Pinterest (2021)
             .col-lg-6
+              p.BorTit Figura 24, Alforza
               figure
                 img.mt-5.mb-5(src='@/assets/curso/tema_4/img_8.png', alt='Alforza')
-                figcaption Figura 24, Alforza
-                  p Nota.  SENA (2021)
+                figcaption Nota.  SENA (2021)
 
       .row(titulo="Drapeados")
         .col-md-6.mb-4.mb-md-0
@@ -92,21 +92,22 @@
         .col-md-6.jumbo_1.p-4.mb-3
           .row.align-items-center
             .col-lg-6
+              p.BorTit Figura 26, Vestidos drapeados
               figure
                 img.img-a.mb-2(src='@/assets/curso/tema_4/img_9.png', alt='Diseño plano con alforzas')
-                figcaption Figura 26, Vestidos drapeados
-                  p Nota. The Cutting Class (2021)
+                figcaption Nota. The Cutting Class (2021)
             .col-lg-6
+              p.BorTit Figura 27, Líneas guías de drapeado #[br] Figura 28, Apertura de molde
               figure
-                img.mb-5(src='@/assets/curso/tema_4/img_10.png', alt='Alforza')
-                figcaption Figura 27, Líneas guías de drapeado #[br] Figura 28, Apertura de molde
-                  p Nota. Carrera de diseño y gestión de moda (2015)
+                img.img-a.mb-5(src='@/assets/curso/tema_4/img_10.png', alt='Alforza')
+                figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
     .titulo-segundo
       #t_4_3.h2 4.3  Escotes, cuellos y solapas
 
     SlyderB.mb-5(:datos="datosSlyder")
 
+    p.BorTit Trazo de escotes y tipos de cuellos
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/xjSPGOWXJw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -124,7 +125,7 @@
           img(src='@/assets/curso/tema_4/img_19.svg' alt='AvatarTop')
           .tarjeta.tarj_color
             .p-4
-              .h2.text-center Brazo regula
+              .h2.text-center Brazo regular
               p.text-center Conformación casi recta desde la espalda al codo y con la muñeca ahusada.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -140,7 +141,7 @@
           img(src='@/assets/curso/tema_4/img_21.svg' alt='AvatarTop')
           .tarjeta.tarj_color
             .p-4
-              .h2.text-center Brazo grues
+              .h2.text-center Brazo grueso
               p.text-center  constitución voluminosa desde el hombro hasta el codo.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -153,9 +154,10 @@
 
     p.mb-5 #[strong Análisis de la posición de los brazos]: el análisis de la posición del brazo respecto al cuerpo es muy importante para una perfecta caída de la manga. De hecho, la posición de la manga en el centro del hombro debe adaptarse a la constitución del sujeto y a la posición del brazo. Los principales defectos de posición son el brazo adelantado y el brazo atrasado
 
+    p.BorTit Figura 37, Posición de brazos
     figure.mb-5
       img(src='@/assets/curso/tema_4/img_23.svg', alt='Posición de brazos')
-      figcaption Figura 37, Posición de brazos
+      figcaption 
         p Nota. Carrera de diseño y gestión de moda (2015)
  
     .titulo-segundo
@@ -182,14 +184,14 @@
 
     .row.mb-5
       .col-lg-4
-        figure.mb-3
+        p.BorTit Figura 38, Tipos de mangas.
+        figure.mb-5
           img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='Tipos de mangas')
-          figcaption Figura 38, Tipos de mangas.
-            p Nota.  SENA (2021)
+          figcaption Nota.  SENA (2021)
+        p.BorTit Figura 39, Cabeza de manga.
         figure
           img.img-a(src='@/assets/curso/tema_4/img_25.svg', alt='Cabeza de manga')
-          figcaption Figura 39, Cabeza de manga.
-            p Nota.  SENA (2021)
+          figcaption Nota.  SENA (2021)
       .col-lg-8
         ol.lista-ol--cuadro.mb-5
           li 
@@ -210,7 +212,7 @@
               i.fas.fa-angle-right
               | Un punto intermedio entre las dos anteriores, corresponde a prendas casuales.
 
-          p Tal como se aprecia en la siguiente figura.
+          p.mb-5 Tal como se aprecia en la siguiente figura.
 
           li 
             .lista-ol--cuadro__vineta
@@ -225,20 +227,20 @@
           span 5
         h4 Cabeza de manga por medida deducida
 
-    p sale según el tipo de plano y línea que se trabaja, es decir, que cada vez que se esté trazando un plano, sobre ese plano con la medida de recorrido de sisa delantera y sisa posterior se identifica la cabeza de manga, la sumatoria de esas dos medidas son divididas de acuerdo con el tipo de prenda, para identificar la cabeza de manga. 
+    p Sale según el tipo de plano y línea que se trabaja, es decir, que cada vez que se esté trazando un plano, sobre ese plano con la medida de recorrido de sisa delantera y sisa posterior se identifica la cabeza de manga, la sumatoria de esas dos medidas son divididas de acuerdo con el tipo de prenda, para identificar la cabeza de manga. 
 
     .row.mb-5
       .col-lg-4
-        figure.mb-3
+        figure.mb-5
           img.img-a(src='@/assets/curso/tema_4/img_26.png', alt='Tipos de mangas')
-        figure.mb-3
+        p.BorTit Figura 40, Medida de contornos en brazo
+        figure.mb-5
           img.img-a(src='@/assets/curso/tema_4/img_27.svg', alt='Medida de contornos en brazo')
-          figcaption Figura 40, Medida de contornos en brazo
-            p Nota. Carrera de diseño y gestión de moda (2015)
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
+        p.BorTit Figura 41, Medida de largo en brazo
         figure
           img.img-a(src='@/assets/curso/tema_4/img_28.svg', alt='Medida de largo en brazo')
-          figcaption Figura 41, Medida de largo en brazo
-            p Nota. Carrera de diseño y gestión de moda (2015)
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
       .col-lg-8
 
@@ -280,7 +282,7 @@
 
       .row
         .col-lg-8
-          p en el desarrollo de curvas y trazos en las cabezas de manga existen varias formas de trazarlas. Es importante tener en cuenta que el trazo de manga y las medidas de las sisas dependen del trazo de la prenda o diseño a trabajar, es decir, que siempre en este punto las mangas hacen parte de los complementos en los pasos del patronaje. A continuación, se relacionan algunos de los aspectos más representativos para las medidas: 
+          p En el desarrollo de curvas y trazos en las cabezas de manga existen varias formas de trazarlas. Es importante tener en cuenta que el trazo de manga y las medidas de las sisas dependen del trazo de la prenda o diseño a trabajar, es decir, que siempre en este punto las mangas hacen parte de los complementos en los pasos del patronaje. A continuación, se relacionan algunos de los aspectos más representativos para las medidas: 
 
           ul.lista-ul--color.mb-5
             li 
@@ -303,6 +305,7 @@
 
       p.mb-5 Consulte el siguiente video para que conozca el paso a paso sobre la definición del trazo de manga y cabezas de manga. 
 
+      p.BorTit Trazo de manga y cabezas de manga
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/EAl_FBfkYUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -325,20 +328,25 @@
             span 7
           h4 Interpretación de mangas
 
-      p.mb-5 para profundizar en los conceptos y detalles trabajados en el trazo de mangas, se hará el análisis de diferentes diseños desde dibujo plano e imagen, con el fin de tener referencias visuales de lo que se va trabajando se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento se implementará una serie de cortes, traslados y aumentos que irán generando volúmenes o estructuras diferentes sobre el cuerpo, todo partiendo desde el desarrollo del trazo base de manga.
+      p.mb-5 Para profundizar en los conceptos y detalles trabajados en el trazo de mangas, se hará el análisis de diferentes diseños desde dibujo plano e imagen, con el fin de tener referencias visuales de lo que se va trabajando se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento se implementará una serie de cortes, traslados y aumentos que irán generando volúmenes o estructuras diferentes sobre el cuerpo, todo partiendo desde el desarrollo del trazo base de manga.
 
       .row.justify-content-center
         .col-lg-10
           .cajon.color-primario.p-4.mb-4
             p.text-center Por tanto, es importante que consulte tanto los videos que se presentan a continuación, como el manual de patronaje básico e interpretación de diseños, teniendo en cuenta las páginas de lectura indicadas.
 
+      p.BorTit Interpretación de mangas   
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2a81MoVG6Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Conozca cómo se interpreta las mangas para sacar el patrón.
+
+      p.BorTit Generalidades de manga kimona y ranglan  
 
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/tJWzjpSmkps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Conozca la interpretación de las generalidades de la manga kimona y ranglan.
 
       .row
         .col-lg-6

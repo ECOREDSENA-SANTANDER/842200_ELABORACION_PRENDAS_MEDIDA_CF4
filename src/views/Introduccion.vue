@@ -8,6 +8,8 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-5 Se desarrollará la sinergia entre cuerpo, patrón y diseño en la que convergen factores de análisis, interpretación, precisión, adaptación y transformación según el material textil, la intencionalidad de uso y otros elementos como insumos y avíos. En concordancia, se vivenciarán desafíos con el objetivo de efectuar la experimentación de la forma y la silueta.
     
     figure.mb-5
       .video

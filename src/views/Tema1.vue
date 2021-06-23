@@ -8,12 +8,17 @@
         span 1
       h1 Fundamentos para el diseño de patrones básicos
 
-    p.mb-3 Los patrones básicos son el producto seguido a la aplicación de las medidas anatómicas, por consiguiente, es un calco del cuerpo; sin embargo, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes, etc.) para proceder a ser utilizados en producción. De su calidad dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada. 
+    .row.justify-content-center
+      .col-lg-10
+        p.mb-3 Los patrones básicos son el producto seguido a la aplicación de las medidas anatómicas, por consiguiente, es un calco del cuerpo; sin embargo, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes, etc.) para proceder a ser utilizados en producción. De su calidad dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada. 
 
-    p.mb-5 Los patrones base o básicos se crean según el tipo de prenda como se muestra en la siguiente figura.
+        p.mb-5 Los patrones base o básicos se crean según el tipo de prenda como se muestra en la siguiente figura.
 
-    figure.mb-5
-      img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='División de moldes según el tipo de prenda')
+        
+        p.BorTit Figura 1, División de moldes según el tipo de prenda
+        figure.mb-5
+          img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='División de moldes según el tipo de prenda')
+          figcaption Nota: SENA (2021)
 
     .titulo-segundo
       #t_1_1.h2 1.1 Trazo de falda básica
@@ -22,8 +27,19 @@
 
     p.mb-5 Analizar la tipología de la falda a desarrollar es importante para determinar qué medida de largo se necesita para generar el rectángulo de inicio para el levantamiento del molde. De acuerdo con su longitud, la falda puede ser:  minifalda, maxi falda, hasta la rodilla y hasta el suelo. Por otro lado, la circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura. 
 
-    figure.mb-5
-      img.img-a(src='@/assets/curso/tema_1/img_2.png', alt='Longitud de falda')
+    .row.mb-5
+      .col-lg-8
+        p.BorTit Figura 2, Longitud de falda
+        figure
+          img(src='@/assets/curso/tema_1/img_2.png', alt='Longitud de falda')
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
+      .col-lg-4
+        p.BorTit Figura 3, Circunferencia de la cintura
+        figure
+          img.alt_img(src='@/assets/curso/tema_1/img_17.png', alt='Circunferencia de la cintura')
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
+
+    
 
     p.mb-5 Para hacer el trazado de este tipo de falda se debe tomar como punto de partida las medidas anatómicas con precisión, no deben sumar centímetros de más, por ello, se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda siempre se trabaja partiendo de un rectángulo e identificando los siguientes puntos:
 
@@ -136,11 +152,11 @@
 
           .py-4.py-md-5(titulo="PASO 7")
             .nav-bg.p-5
-              p Marcar o repisar el trazo de la falda base posterior, centro atrás, cintura, pinza, costado y  largo.
+              p #[strong Marcar o repisar] el trazo de la falda base posterior, centro atrás, cintura, pinza, costado y  largo.
 
           .py-4.py-md-5(titulo="PASO 8")
             .nav-bg.p-5
-              p Identificar cada uno de los puntos de referencia en la parte delantera, se debe tener en cuenta los mismos pasos de la parte posterior.
+              p #[strong Identificar] cada uno de los puntos de referencia en la parte delantera, se debe tener en cuenta los mismos pasos de la parte posterior.
 
     .titulo-segundo
       #t_1_2.h2 1.2 Trazo de faldas rotondas 
@@ -151,11 +167,12 @@
 
         p.mb-5 En la siguiente figura puede apreciar los tipos de faldas rotondas.
 
+        p.BorTit Figura 4, Tipos de faldas rotondas
         figure.mb-5
           img.img-a(src='@/assets/curso/tema_1/img_4.png', alt='Tipos de faldas rotondas')
-          figcaption Figura 4. Tipos de faldas rotondas
-            br
-            | Nota. Confecciones Linda (2019)
+          figcaption Nota. Confecciones Linda (2019)
+
+        p De igual forma, se recomienda que consulte el video trazo de faldas rotondas que le permitirá conocer cómo realizar este trazo.
 
     figure.mb-5
       .video
@@ -412,8 +429,7 @@
             
           .py-4.py-md-5(titulo="PASO 3")
             .nav-bg.p-5
-              p 
-                Trazar el rectángulo por el que se va a trabajar en la parte delantera e identificar o bautizar cada una de las líneas. 
+              p Trazar el rectángulo por el que se va a trabajar en la parte delantera e identificar o bautizar cada una de las líneas. 
 
           
           .py-4.py-md-5(titulo="PASO 4")
@@ -495,10 +511,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .row.align-items-center
-          .col-lg-6
+          .col-lg-5
             figure
-              img.img-a(src='@/assets/curso/tema_1/img_10.png', alt='Texto que describa la imagen')
-          .col-lg-6
+              img(src='@/assets/curso/tema_1/img_10.png', alt='Texto que describa la imagen')
+          .col-lg-7
             ul.lista-ul--color
               li 
                 i.fas.fa-angle-right
@@ -508,7 +524,7 @@
                 i.fas.fa-angle-right
                 | El exceso de la pinza, es decir, el espacio entre lados de la pinza puede ser utilizado como recogidos, pliegues, pinzas semicosidas o en los cortes de diferentes estilos o diseños.
 
-            p Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto. 
+            p.mb-5 Todas las pinzas deben terminar antes del punto de busto (punto giratorio), nunca deben traspasar dicho punto. 
 
         p A continuación, se podrán conocer algunas #[strong técnicas de transformación de las prendas]:
 
@@ -522,10 +538,10 @@
               span 2
             p #[strong Pivoteo (girar)]: este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza. Tal como se muestra en la imagen, existen varios puntos de traslados de pinzas, como lo son:
 
+        p.BorTit Figura 5, Puntos de traslado de pinza
         figure.mb-3
           img(src='@/assets/curso/tema_1/img_11.svg', alt='Puntos de traslado de pinza')
-          figcaption Figura 5, Puntos de traslado de pinza
-            p Nota. Carrera de diseño y gestión de moda (2015)
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
 
     .row.justify-content-center.mb-3
@@ -535,19 +551,20 @@
     
     .row.justify-content-center.mb-3
       .col-lg-8
+        p.BorTit Figura 6, Traslados de pinza en base 
         figure.mb-3
           img(src='@/assets/curso/tema_1/img_12.svg', alt='Traslados de pinza en base')
-          figcaption Figura 6.Traslados de pinza en base 
-            p Nota. Carrera de diseño y gestión de moda (2015)
+          figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
     .row.justify-content-center.mb-3
       .col-lg-6
         p Además, se recomienda que consulte el video explicativo sobre cómo se hacen los traslados de pinza correctiva de talles.
 
+    p.BorTit Traslados de pinza correctiva de talles
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/encNXGtE15Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
 
     .titulo-segundo
       #t_1_4.h2 1.4 Análisis y trazo de sistema de ajuste
@@ -595,11 +612,11 @@
       .col-lg-8
         p.text-center Con el fin de que conozca cómo se realiza el trazo de sistemas de ajuste de pinzas y cortes consulte el video análisis y trazo de sistema de ajuste pinzas y cortes que aparece a continuación.
 
+    p.BorTit Análisis y trazo de sistema de ajuste pinzas y cortes.
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Tq_3F32nynw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
-
+      
 
   
 </template>
