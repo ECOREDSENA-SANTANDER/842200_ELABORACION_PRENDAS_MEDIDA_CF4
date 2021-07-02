@@ -52,7 +52,13 @@
 
       .row(titulo="Prense chato, caja o tabla")
         .col-md-6.mb-4.mb-md-0
-          p Los “pliegues de caja” son casi como pliegues de cuchillo que se han colocado espalda con espalda. Al colocar los pliegues de cuchillo uno al lado del otro se forma un plano rectangular de tela o forma de caja en el exterior de la prenda, que es como el pliegue de caja recibe su nombre, en el momento de ser confeccionado tendrá en total cuatro piquetes, dos se unirán para un lado y los otros dos hacia el lado opuesto, finalmente queda con una cara que suele medir el doble de las dos profundidades, tal como se ilustra en las siguientes figuras.
+          p.mb-5 Los “pliegues de caja” son casi como pliegues de cuchillo que se han colocado espalda con espalda. Al colocar los pliegues de cuchillo uno al lado del otro se forma un plano rectangular de tela o forma de caja en el exterior de la prenda, que es como el pliegue de caja recibe su nombre, en el momento de ser confeccionado tendrá en total cuatro piquetes, dos se unirán para un lado y los otros dos hacia el lado opuesto, finalmente queda con una cara que suele medir el doble de las dos profundidades, tal como se ilustra en las siguientes figuras.
+
+          a.anexo.mb-4(:href="obtenerLink('/downloads/prenses_de_tabla.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-pdf.svg")
+            .anexo__texto
+              p #[strong Anexo.] Definición prenses de tabla.
 
         .col-md-6.jumbo_1.p-4.mb-3
           .row.align-items-center

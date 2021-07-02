@@ -134,14 +134,14 @@
         
 
       
-      .tarjeta.tarj_color.p-4(titulo="Perilla separada")
+      .tarjeta.tarj_color.p-4(titulo="Pieza perilla")
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_10.png', alt='Perilla separada')
+              img.img-a(src='@/assets/curso/tema_2/img_10.png', alt='Pieza perilla')
           .col-lg-6
-            h3 Perilla separada
-            p Se crea el patrón de la perilla haciendo la forma curveada del escote y agregando los márgenes de costura necesarios.
+            h3 Pieza perilla
+            p Realizar el rectángulo de la perilla, aumentando el dobladillo aproximadamente 3 cm y los márgenes de costura necesarios. 
 
 
 
@@ -155,13 +155,13 @@
             p Para crear una perilla para camisa o blusa se dibuja sobre el patrón. Se calcula el margen de costura en el patrón y se recorta el sobrante. 
       
       
-      .tarjeta.tarj_color.p-4(titulo="Pieza perilla")
+      .tarjeta.tarj_color.p-4(titulo="Perilla separada")
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_12.png', alt='Pieza perilla')
+              img.img-a(src='@/assets/curso/tema_2/img_12.png', alt='Perilla separada')
           .col-lg-6
-            h3 Pieza perilla
+            h3 Perilla separada
             p Se crea el patrón de la perilla haciendo la forma curveada del escote y agregando los márgenes de costura necesarios.
         
     ul.lista-ul--color
