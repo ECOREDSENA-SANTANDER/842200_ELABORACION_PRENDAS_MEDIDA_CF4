@@ -73,11 +73,11 @@
 
     .jumbo_1.mb-5
       p.mt-2.text-center De igual manera, se recomienda que consulte el video base inferior falda femenino que le permitirá conocer el paso a paso para realizar el básico de una falda.
-
+    p.BorTit Base inferior falda femenino
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/wl5EjrLU-8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video explicativo con la información sobre el paso a paso para realizar el básico de una falda.
 
     p.text-center.mb-5 A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
 

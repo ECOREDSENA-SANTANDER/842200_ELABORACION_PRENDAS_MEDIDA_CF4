@@ -12,9 +12,8 @@
     p.mb-5 Se desarrollará la sinergia entre cuerpo, patrón y diseño en la que convergen factores de análisis, interpretación, precisión, adaptación y transformación según el material textil, la intencionalidad de uso y otros elementos como insumos y avíos. En concordancia, se vivenciarán desafíos con el objetivo de efectuar la experimentación de la forma y la silueta.
     
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      img.img-a(src='@/assets/curso/introduccion/img_1.svg', alt='División de moldes según el tipo de prenda')
+      
     
     p.mb-3 En el desarrollo de proyectos que tienen como finalidad la elaboración de prendas de vestir es elemental incorporar los métodos y procedimientos apropiados con altos modelos de calidad. Este componente posibilita comprender cómo el cuerpo humano se puede calcar en un papel mediante un esquema, denominado patrón base o básicos, que a partir de la toma de medidas se puede adaptar o construir de cero, por consiguiente, desde los patrones base se desprenden los patrones básicos de prendas superiores e inferiores para línea femenina, logrando obtener una serie de moldes que serán adaptados según el diseño. 
 
