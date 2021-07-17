@@ -175,107 +175,13 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leidy Johana Velásquez Hernández',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paola Angélica Castro Salazar',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paula Andrea Taborda Ortiz ',
-        cargo: 'Diseñadora instruccional ',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla ',
-        cargo: 'Revisora metodológica y pedagógica ',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Diseñadora y evaluadora instruccional ',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Oscar Ivan Uribe Ortiz',
-        cargo: 'Diseño web ',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Ricardo Alonso González Vargas',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Yenny Patricia Ulloa villamziar',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
+
   referencias: [
     {
       referencia:
@@ -471,4 +377,97 @@ export default {
       descarga: '/downloads/CF4_Anexo4_pretinas.pdf',
     },
   ],
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Leidy Johana Velásquez Hernández',
+        cargo: 'Experta temática',
+        centro: 'Diseño, Confección y Moda',
+        regional: 'Regional Antioquía',
+      },
+      {
+        nombre: 'Paola Angélica Castro Salazar',
+        cargo: 'Experta temática',
+        centro: 'Diseño, Confección y Moda',
+        regional: 'Regional Antioquía',
+      },
+      {
+        nombre: 'Paula Andrea Taborda Ortiz ',
+        cargo: 'Diseñadora instruccional ',
+        centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla ',
+        cargo: 'Revisora metodológica y pedagógica ',
+        centro: 'Centro de Gestión Industrial',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional ',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Oscar Ivan Uribe Ortiz',
+        cargo: 'Diseño web ',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Ricardo Alonso González Vargas',
+        cargo: 'Desarrollo Front-End',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Yenny Patricia Ulloa villamziar',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional Tolima',
+      },
+    ],
+  },
 }

@@ -374,7 +374,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p.my-0 #[strong Anexo]. Anexo. Manual de patronaje básico e interpretación de diseños.
+                  p.my-0 #[strong Anexo]. Manual de patronaje básico e interpretación de diseños.
                   p Conozca el esquema de la manga, p.51-53. 
         .col-lg-6
           figure
