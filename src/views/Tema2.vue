@@ -28,7 +28,7 @@
         p Para que conozca de manera explicativa cómo se realiza el trazo de blusa femenina consulte el video que se presenta a continuación.
 
     
-    p.BorTit Trazo de base superior femenino
+    p.BorTit Base superior femenino
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/56vyEeZhA-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
