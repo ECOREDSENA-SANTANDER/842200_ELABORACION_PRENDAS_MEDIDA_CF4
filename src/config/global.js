@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Elaboración de modelos femeninos',
     descripcionCurso:
       'En este componente formativo se abordan las temáticas de levantamiento de patrones base, básicos de patronaje femenino y desarrollos de moldería.<br><br>En la elaboración de moldes básicos desde el componente anatómico se logra interpretar diseños a partir de la transformación de los patrones base.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
