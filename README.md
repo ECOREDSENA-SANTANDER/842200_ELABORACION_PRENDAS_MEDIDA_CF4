@@ -1,8 +1,8 @@
-# **Elaboración de modelos femeninos**
+# **ecoredsena-base v7.0.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF4/](https://ecored-sena.github.io/ELABORACION_PRENDAS_MEDIDA_CF4/)
+[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
 
 #
 
