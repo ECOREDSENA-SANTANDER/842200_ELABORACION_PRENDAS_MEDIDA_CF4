@@ -1,7 +1,96 @@
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    left: 15%
+
+  &-2
+    animation: float2 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    left: -15%
+  &-3
+    animation: float3 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 68%
+    right: 0%
+
+@keyframes float1
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+@keyframes float3
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+
+.banner-principal__img 
+  padding-bottom: 0 !important;
+    
+
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
     color: $color-sistema-texto !important
 
-  
+.titulo-principal.color-acento-contenido .titulo-principal__numero,
+.cajon.color-acento-contenido
+    background-color: $color-acento-contenido  !important
+.cajon.color-acento-contenido:before
+   background-color: #73D8C0
+.h-auto
+  height: auto !important 
+
+.lista-ul--color li > i:first-of-type 
+    color: $color-acento-botones;
+
+.anexo 
+  background-color: $color-acento-contenido;
+.anexo * 
+    color: $color-sistema-texto;
+.anexo__icono
+  left: 0 !important
+.anexo__texto
+  margin-left: 20px
+
+.f-bold-18
+  font-size: 18px
+  font-weight: 700
+
+.bg01
+  background-color: #DEE4F0 !important
+  border-radius: 10px
+
+.bg02
+  background-color: #F5947A
+.bg03
+  background-color: #E9FAF6
+  border-radius: 10px
+
+.ml-0-cus
+  margin-left: 0 !important
+
+
+.tarjeta--boton 
+  background-color: #025157
+  border-radius: 20px   0 0 20px !important
+.tarjeta--boton-2
+  background-color: #D2E1F1
+  border-radius: 0   20px 20px 0  !important
+.lista-ol--cuadro__vineta.color-acento-botones
+  background-color: $color-acento-botones
+.tarjeta--boton.color-sistema-b
+  background-color: $color-sistema-b
+  border-radius: 20px !important
+
+
 .img-a 
   display: block 
   margin: auto   
@@ -26,16 +115,19 @@
   border: 15px solid white !important
   font-size: 15px !important 
   min-width: 170px   
+  border-radius: 15px
+
 
 .tabs-b__tab--active
-  background: #FF9696 !important
+  background: #F5947A !important
   color: white !important
-  border: 15px solid white !important
   font-size: 15px !important  
   min-width: 170px
+  border-radius: 5px !important  
+
 
 .tabs-b__tab:hover
-  background-color: #FF9696 !important
+  background-color: #F5947A !important
   border: 15px solid white !important 
   color: white !important
   font-size: 15px !important    
@@ -49,8 +141,7 @@
   padding: 2px
   color: white !important
 
-.tarjeta--boton 
-  background-color: #EDE3B7
+
 
 .tarj_color
   background-color: #FFFDF4
@@ -71,4 +162,9 @@
 .alt_img
   height: 460px
 
-
+@media screen and (max-width: $bp-max-xs)
+  .tarjeta--boton 
+    border-radius: 20px !important
+    margin-bottom: 20px !important
+  .tarjeta--boton-2
+    border-radius: 20px  !important
