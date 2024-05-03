@@ -7,9 +7,9 @@
       .titulo-principal__numero
         span 2
       h1  Variantes de básicos femeninos
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
-            img.display-none.display-lg-block(src='@/assets/curso/tema_2/img_16.png')
+            img.d-none.d-lg-block(src='@/assets/curso/tema_2/img_16.png')
       .col-sm-12.col-lg-8
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.mt-5
             .bloque-texto-a__texto.p-4
@@ -19,7 +19,7 @@
     #t_2_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.1 Trazo básico blusa
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-2
         img(src='@/assets/curso/tema_2/img_1.svg')
       .col-sm-12.col-lg-10
@@ -27,8 +27,8 @@
         p Para que conozca de manera explicativa cómo se realiza el trazo de blusa femenina consulte el video que se presenta a continuación.
 
     
-    p.BorTit Base superior femenino
-    figure.mb-5
+    p.BorTit(data-aos="zoom-in-left") Base superior femenino
+    figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/56vyEeZhA-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
@@ -36,28 +36,28 @@
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.2 Trazo blusa con almilla y cuello camisero
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-lg-2
-        img.display-none.display-lg-block.img_a(src='@/assets/curso/tema_2/img_2.svg')
+        img.d-none.d-lg-block.img_a(src='@/assets/curso/tema_2/img_2.svg')
       .col-sm-12.col-lg-9
         p.mb-4.mt-3 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores se traza una línea de manera horizontal en el papel, sobre la cual quedarán alineados y aplomados desde la línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
 
         p En el siguiente video podrá conocer de manera explicativa cómo se elabora una blusa con almilla y con cuello camisero.
 
-    p.BorTit Trazo de blusa femenina 
-    figure.mb-5
+    p.BorTit(data-aos="zoom-in-left") Trazo de blusa femenina 
+    figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/euVdaqaTQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, elementos o incluso el tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas indicadas.
+    p.mb-5(data-aos="zoom-in-left") Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, elementos o incluso el tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas indicadas.
 
     Separador  
     #t_2_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.3 Piezas complementarias
 
-    p.mb-5 Estas refuerzan tanto el diseño como la funcionalidad de la prenda y varían según la forma e interpretación.
+    p.mb-5(data-aos="zoom-in-left") Estas refuerzan tanto el diseño como la funcionalidad de la prenda y varían según la forma e interpretación.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         ul.lista-ul--color
             li 
@@ -65,7 +65,7 @@
               span.h3.txt_top Los botones y ojales
         p Además de cumplir su función de abotonar, también forman parte del diseño y acabado de un producto de vestir. Algunas piezas de los moldes estarán sujetas a ser modificadas según el tamaño de los insumos anteriormente mencionados; entre los tipos de botones se encuentran planos, semiredondos, semiesféricos y esféricos, estos se diferencian en tamaños por líneas y por diámetro como se muestra en la siguiente figura.
             
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.mt-5.bg04.p-5
         .row 
           .col-sm-12.col-lg-4
@@ -78,7 +78,7 @@
               img(src='@/assets/curso/tema_2/img_3.svg', alt='Traslados de pinza en base')
               figcaption Nota. Carrera de diseño y gestión de moda (2015)
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         ul.lista-ul--color
             li 
@@ -87,7 +87,7 @@
         p Es una abertura en la tela para pasar los botones, para calcular el alargamiento de este de acuerdo con los diferentes tamaños de botón se considera el tamaño que se muestra en la figura 11. 
         p Por ejemplo, al utilizar botones de línea 40 (2,5 cm de diámetro) la extensión del ojal debe ser mayor que el botón (2,75 a 3 cm). De esta manera, el proceso es fácil de realizar al abrochar la ropa, pero el ojal no puede ser tan grande, ya que tiene el riesgo de ver el cuerpo a través del agujero, como se muestra en la siguiente figura
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.mt-5.bg04.p-5
         .row 
           .col-sm-12.col-lg-4
@@ -100,9 +100,9 @@
               img(src='@/assets/curso/tema_2/img_4.svg', alt='Aumento para el ojal')
               figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
-    p.mb-5 A continuación, observe atentamente los pasos para realizar el aumento para el ojal.
+    p.mb-5(data-aos="zoom-in-left") A continuación, observe atentamente los pasos para realizar el aumento para el ojal.
 
-    TabsC.color-acento-botones.mb-5
+    TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
       .tarjeta.bg05.p-4(titulo="Extensión de delantero")
         p Por el centro frente se encuentra un ojal de 0,3 cm a través de la línea central de la prenda. En el caso de los botones, estos se ubican en la misma línea del centro.
         figure
@@ -126,21 +126,21 @@
         figure
           img.img-a(src='@/assets/curso/tema_2/img_8.svg', alt='Falsos continuos')
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         ul.lista-ul--color
             li 
               i.fas.fa-bullseye.color-acento-botones 
               span.h3.txt_top Carteras, perillas, martingala o plaquetas
 
-    p.mb-5 Son piezas independientes que se utilizan para abotonar. A continuación, se presentan los pasos que se deben seguir para su elaboración.
+    p.mb-5(data-aos="zoom-in-left") Son piezas independientes que se utilizan para abotonar. A continuación, se presentan los pasos que se deben seguir para su elaboración.
 
-    TabsA.color-acento-botones.mb-5
+    TabsA.color-acento-botones.mb-5(data-aos="zoom-in-left")
       .tarjeta.bg06.p-4(titulo="Perilla")
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_9.png', alt='Perilla')
+              img.img-a(src='@/assets/curso/tema_2/img_9.svg', alt='Perilla')
           .col-lg-6
             h3 Perilla
             p En el delantero se dibuja la perilla del largo y forma requerida y se suma el margen de costura. 
@@ -149,7 +149,7 @@
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_10.png', alt='Pieza perilla')
+              img.img-a(src='@/assets/curso/tema_2/img_10.svg', alt='Pieza perilla')
           .col-lg-6
             h3 Pieza perilla
             p Realizar el rectángulo de la perilla, aumentando el dobladillo aproximadamente 3 cm y los márgenes de costura necesarios. 
@@ -158,7 +158,7 @@
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_11.png', alt='Extensión en frente')
+              img.img-a(src='@/assets/curso/tema_2/img_11.svg', alt='Extensión en frente')
           .col-lg-6
             h3 Extensión en frente
             p Para crear una perilla para camisa o blusa se dibuja sobre el patrón. Se calcula el margen de costura en el patrón y se recorta el sobrante. 
@@ -167,20 +167,20 @@
         .row
           .col-lg-6
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_12.png', alt='Perilla separada')
+              img.img-a(src='@/assets/curso/tema_2/img_12.svg', alt='Perilla separada')
           .col-lg-6
             h3 Perilla separada
             p Se crea el patrón de la perilla haciendo la forma curveada del escote y agregando los márgenes de costura necesarios.
         
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         ul.lista-ul--color
             li 
               i.fas.fa-bullseye.color-acento-botones 
               span.h3.txt_top Bolsillos
 
-    p.mb-5 Existen diferentes clases de bolsillos y unas variantes que dependen del diseño requerido. En las siguientes figuras se relacionan los más representativos.
-    .row.mb-5.justify-content-center
+    p.mb-5(data-aos="zoom-in-left") Existen diferentes clases de bolsillos y unas variantes que dependen del diseño requerido. En las siguientes figuras se relacionan los más representativos.
+    .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Bolsillo básico")
@@ -201,9 +201,12 @@
               p Lo primero es definir el tamaño de este según el diseño. 
               p.mb-5 Ejemplo: realizar un rectángulo de 6 cm x 12 cm. Cortar un rectángulo por la mitad e insertar la cantidad necesaria para el pliegue tal como se indica en la figura 10. Luego, se aumenta la costura y el dobladillo.
 
-              p.BorTit Figura 10, Bolsillo con pliegue
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 10.
+                span
+                  |  Bolsillo con pliegue
               figure
-                img(src='@/assets/curso/tema_2/img_13.svg', alt='Bolsillo básico')
+                img(src='@/assets/curso/tema_2/img_17.svg', alt='Bolsillo básico')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
           .row.justify-content-center(titulo="Bolsillo delantero de un jean")
@@ -212,7 +215,10 @@
 
               p.mb-5 Bolsillo delantero de un jean: dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
 
-              p.BorTit Figura 11, Bolsillo delantero de jean
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 11.
+                span
+                  |   Bolsillo delantero de jean
               figure
                 img(src='@/assets/curso/tema_2/img_14.svg', alt='Bolsillo delantero de jean')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
@@ -221,21 +227,21 @@
     #t_2_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.4 Trazo de vestido clásico
 
-    p.mb-5 El vestido sin corte en la cintura es una monoprenda en la que se emplea el patrón base superior y se prolonga el largo. En otros casos se puede unir con moldes de faldas, logrando diferentes tipologías de vestidos.
+    p.mb-5(data-aos="zoom-in-left") El vestido sin corte en la cintura es una monoprenda en la que se emplea el patrón base superior y se prolonga el largo. En otros casos se puede unir con moldes de faldas, logrando diferentes tipologías de vestidos.
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-4 #[strong Pasos detallados para realizar el trazo del vestido]: el vestido clásico sin unión en la cintura se puede transformar en un sinfín de otros básicos, es solo la acción de dar amplitud, al cambiar el largo se obtiene una forma y da paso a una nueva silueta. A continuación, se presentan los pasos detallados para realizar la base de superior femenina.
           p #[strong Variación del vestido]: partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos. 
 
-      .col-sm-12.col-lg-4.display-none.display-lg-block
+      .col-sm-12.col-lg-4.d-none.d-lg-block
         img.w-75(src="@/assets/curso/tema_2/img_15.svg")
 
 
    
-    p.mb-5 Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos explore siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
-    .row.mb-5.justify-content-center
+    p.mb-5(data-aos="zoom-in-left") Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos explore siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
+    .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.px-0
         a.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
             .anexo__icono
@@ -243,16 +249,16 @@
             .anexo__texto
             p.my-0 #[strong Anexo]. Manual de patronaje básico e interpretación de diseños
       .col-sm-12.col-lg-5
-        a.anexo.ml-0-cus(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenina.pdf')" target="_blank")
+        a.anexo.ml-0-cus.mt-5-cus(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenina.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf-2.svg")
           .anexo__texto
             p.my-0 #[strong Anexo]. Base superior femenina
 
-    p.mb-5 De igual forma, para que conozca cómo realizar el trazo de prendas como batas y vestidos consulte el siguiente video.
+    p.mb-5(data-aos="zoom-in-left") De igual forma, para que conozca cómo realizar el trazo de prendas como batas y vestidos consulte el siguiente video.
 
-    p.BorTit Trazo de prendas – bata o vestido
-    figure
+    p.BorTit(data-aos="zoom-in-left") Trazo de prendas – bata o vestido
+    figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/JnFLa4-gUa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 

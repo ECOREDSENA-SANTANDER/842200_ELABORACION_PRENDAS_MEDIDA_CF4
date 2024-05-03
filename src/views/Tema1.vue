@@ -73,7 +73,7 @@
             | Parte izquierda – delantero. 
 
       
-      .col-sm-12.col-lg-4.display-none.display-lg-block
+      .col-sm-12.col-lg-4.d-none.d-lg-block
         figure
           img.img-a(src='@/assets/curso/tema_1/img_3.png')
 
