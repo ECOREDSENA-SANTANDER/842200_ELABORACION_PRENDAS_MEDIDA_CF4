@@ -35,31 +35,27 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+
         numero: '1',
         titulo: 'Fundamentos para el diseño de patrones básicos',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
             numero: '1.1',
             titulo: 'Trazo de falda básica',
             hash: 't_1_1',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '1.2',
             titulo: 'Trazo de faldas rotondas',
             hash: 't_1_2',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '1.3',
             titulo: 'Trazo de base superior femenina',
             hash: 't_1_3',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '1.4',
             titulo: 'Análisis y trazo de sistema de ajuste',
             hash: 't_1_4',
@@ -68,31 +64,27 @@ export default {
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+
         numero: '2',
         titulo: 'Variantes de básicos femeninos',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
             numero: '2.1',
             titulo: 'Trazo básico blusa',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '2.2',
             titulo: 'Trazo blusa con almilla y cuello camisero',
             hash: 't_2_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.3',
             titulo: 'Piezas complementarias',
             hash: 't_2_3',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '2.4',
             titulo: 'Trazo de vestido clásico',
             hash: 't_2_4',
@@ -101,31 +93,27 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+
         numero: '3',
         titulo: 'El pantalón femenino y sus variantes',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Trazo pantalón femenino',
             hash: 't_3_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '3.2',
             titulo: 'Distribución de aumentos de costura',
             hash: 't_3_2',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '3.3',
             titulo: 'Patrones de pantalón femenino',
             hash: 't_3_3',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '3.4',
             titulo: 'Variantes de pantalón femenino',
             hash: 't_3_4',
@@ -134,37 +122,32 @@ export default {
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+
         numero: '4',
         titulo: 'Taller experimental',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '4.1',
             titulo: 'Detalles piezas de diseño desde el molde',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.2',
             titulo: 'Detalles piezas de diseño desde el molde',
             hash: 't_4_2',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '4.3',
             titulo: 'Escotes, cuellos y solapas',
             hash: 't_4_3',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.4',
             titulo: 'Mangas',
             hash: 't_4_4',
           },
           {
-            icono: 'far fa-play-circle',
             numero: '4.5',
             titulo: 'Análisis y comportamiento del patrón manga',
             hash: 't_4_5',
@@ -173,6 +156,12 @@ export default {
       },
     ],
     subMenu: [
+      {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -187,6 +176,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/material.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -369,123 +363,135 @@ export default {
   ],
   complementario: [
     {
-      texto:
+      tema: '1. Fundamentos para el diseño de patrones básicos',
+      referencia:
         'SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero.',
       tipo: 'Manual',
       descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
     },
     {
-      texto: 'SENA. (2020). Cuellos',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo1_Cuellos.pdf',
-    },
-    {
-      texto: 'SENA. (2020). Mangas.',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo2_Mangas.pdf',
-    },
-    {
-      texto: 'SENA. (2020). Bolsillos.',
+      tema: '2. Variantes de básicos femeninos',
+      referencia: 'SENA. (2020). Bolsillos.',
       tipo: 'PDF',
       descarga: '/downloads/CF4_Anexo3_Bolsillos.pdf',
     },
     {
-      texto: 'SENA. (2020). Pretinas.',
+      tema: '3. El pantalón femenino y sus variantes',
+      referencia: 'SENA. (2020). Pretinas.',
       tipo: 'PDF',
       descarga: '/downloads/CF4_Anexo4_pretinas.pdf',
     },
+    {
+      tema: '4. Taller experimental',
+      referencia: 'SENA. (2020). Cuellos',
+      tipo: 'PDF',
+      descarga: '/downloads/CF4_Anexo1_Cuellos.pdf',
+    },
+    {
+      tema: '4. Taller experimental',
+      referencia: 'SENA. (2020). Mangas.',
+      tipo: 'PDF',
+      descarga: '/downloads/CF4_Anexo2_Mangas.pdf',
+    },
   ],
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leidy Johana Velásquez Hernández',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paola Angélica Castro Salazar',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paula Andrea Taborda Ortiz ',
-        cargo: 'Diseñadora instruccional ',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla ',
-        cargo: 'Revisora metodológica y pedagógica ',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Diseñadora y evaluadora instruccional ',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Oscar Ivan Uribe Ortiz',
-        cargo: 'Diseño web ',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Ricardo Alonso González Vargas',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Yenny Patricia Ulloa villamziar',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Leidy Johana Velásquez Hernández',
+          cargo: 'Experta temática',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+        },
+        {
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta temática',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz ',
+          cargo: 'Diseñadora instruccional ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Vilma Lucía Perilla ',
+          cargo: 'Revisora metodológica y pedagógica ',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora y evaluadora instruccional ',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Yazmin Figueroa Pacheco',
+          cargo: 'Diseñadora web',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora Full-Stack',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Validadora de diseño y contenido',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
 }
