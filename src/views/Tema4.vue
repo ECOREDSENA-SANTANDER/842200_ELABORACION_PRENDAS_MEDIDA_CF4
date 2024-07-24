@@ -37,7 +37,7 @@
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Prense cuchilla").px-5
             .col-sm-12.col-lg-6
-              p Debe ser confeccionado, para lo cual se dobla un solo lado por los piquetes en donde se encuentran los excesos de tela, creando un efecto visual como de abanico, donde la tela se dobla hacia adelante y hacia atrás continuamente para que todos los pliegues parezcan apuntar en una dirección alrededor del cuerpo. Finalmente, queda con una medida de cara y una medida de profundidad, como se muestra en las siguientes figuras. 
+              p Debe ser confeccionado, para lo cual se dobla un solo lado por los piquetes en donde se encuentran los excesos de tela, creando un efecto visual como de abanico, donde la tela se dobla hacia adelante y hacia atrás continuamente para que todos los pliegues parezcan apuntar en una dirección alrededor del cuerpo. Finalmente, queda con una medida de cara y una medida de profundidad, como se presenta en las siguientes figuras. 
 
               p Si ciertos componentes de la fibra se sintetizan artificialmente y los prenses se endurecen por calor, entonces los pliegues realmente permanecerán en la tela. Esta es una de las razones por las que la organización de poliéster puede tener un buen efecto de # [strong plisado]. Si se requiere lograr el mismo efecto, la tela previamente debe ser enviada a la tintorería y luego ser cortada según el molde. Este efecto de plegado se puede lograr también de forma manual, dependiendo de la tela y de los procesos continuos de planchado.
           
@@ -46,7 +46,7 @@
                 .col-sm-12.col-lg-6
                   .bg09.p-2
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 20.
+                      h5 Figura 31.
                       span
                         |   Falda con prense cuchilla
                     figure
@@ -55,7 +55,7 @@
                 .col-lg-6
                   .bg09.p-2
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 21.
+                      h5 Figura 32.
                       span
                         |  Prense cuchilla
                     figure
@@ -78,7 +78,7 @@
             .col-lg-6
               .bg09.p-2
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 22.
+                  h5 Figura 33.
                   span
                     | Prense tabla en falda
                 figure
@@ -87,7 +87,7 @@
             .col-lg-6
               .bg09.p-2
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 23.
+                  h5 Figura 34.
                   span
                     |  Prense tabla
                 figure.py-3
@@ -96,14 +96,14 @@
 
       .row(titulo="Las alforzas").px-5
         .col-sm-12.col-lg-6
-          p Son prenses mucho más delgados, en algunos casos se perciben como una simple línea abultada. Tienen una cara y profundidad y, suelen ser en total inferiores a 1 cm hasta 0.2 cm. El ancho y espaciado de las alforzas depende del espesor de la tela y del detalle que desee hacer en la prenda. Las alforzas cosidas del derecho son decorativas, en tanto que las del revés sirven para dar forma; la distancia entre las costuras es el doble del ancho de la alforza terminada, tal como se muestra en las siguientes figuras.
+          p Son prenses mucho más delgados, en algunos casos se perciben como una simple línea abultada. Tienen una cara y profundidad y, suelen ser en total inferiores a 1 cm hasta 0.2 cm. El ancho y espaciado de las alforzas depende del espesor de la tela y del detalle que desee hacer en la prenda. Las alforzas cosidas del derecho son decorativas, en tanto que las del revés sirven para dar forma; la distancia entre las costuras es el doble del ancho de la alforza terminada, tal como se presenta en las siguientes figuras.
 
         .col-sm-12.col-lg-6
           .row.align-items-center
             .col-lg-6
               .bg09.p-2
                   .titulo-sexto.color-acento-contenido
-                    h5 Figura 24.
+                    h5 Figura 35.
                     span
                       | Diseño plano con alforzas
                   figure
@@ -112,7 +112,7 @@
             .col-lg-6
               .bg09.p-2
                   .titulo-sexto.color-acento-contenido
-                    h5 Figura 25.
+                    h5 Figura 36.
                     span
                       |  Alforza
                   figure.py-3
@@ -123,15 +123,15 @@
         .col-12
           .row.mb-5
             .col-sm-12.col-lg-4
-              p Es la técnica más antigua en cuanto a diseño de prendas de vestir, hoy en día es utilizada en cualquier tipo de prenda. En este caso, la caída de la tela es muy importante para el buen ajuste de los pliegues, es recomendado para todos los tipos de cuerpos, ya que puede favorecer las zonas complicadas en la figura, como se muestra a continuación.
-              p Se puede drapear cualquier parte del patrón o tipología, creando primero el diseño sobre una muselina, sobre un retal de tela y una vez que esté seguro pasarlo a la tela definitiva, y así observar el comportamiento de la caída según el cuerpo. 
+              p Es la técnica más antigua en cuanto a diseño de prendas de vestir, hoy en día es utilizada en cualquier tipo de prenda. En este caso, la caída de la tela es muy importante para el buen ajuste de los pliegues, es recomendado para todos los tipos de cuerpos, ya que puede favorecer las zonas complicadas en la figura, como se presenta a continuación.
+              p Se puede drapear cualquier parte del patrón o tipología, creando primero el diseño sobre una muselina, sobre un retal de tela y una vez que esté seguro pasarlo a la tela definitiva, y así evidenciar el comportamiento de la caída según el cuerpo. 
 
             .col-sm-12.col-lg-8
               .row.align-items-center
                 .col-lg-4
                   .bg09.p-2
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 26.
+                        h5 Figura 37.
                         span
                           |  Vestidos drapeados
                       figure
@@ -140,7 +140,7 @@
                 .col-lg-4
                   .bg09.p-2.justify-content-center
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 27.
+                        h5 Figura 38.
                         span
                           |  Líneas guías de drapeado
                       figure.text-center
@@ -149,13 +149,13 @@
                 .col-lg-4
                   .bg09.p-2
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 28.
+                        h5 Figura 39.
                         span
                           |  Apertura de molde
                       figure
                         img.py-2(src='@/assets/curso/tema_4/img_34.svg', alt='Alforza')
                         figcaption Nota. Carrera de diseño y gestión de moda (2015)
-          p.mt-5 Se parte de un patrón básico, una vez trazado se dibujan líneas hacia un punto en específico que será la dirección de la caída; se procede a recortar por las líneas, pero sin llegar al final, se coloca el patrón sobre otro papel y se abren sus trozos en abanico, la apertura depende del volumen buscado en el diseño, como paso final se calca el nuevo patrón, tal como se muestra en las siguientes figuras.
+          p.mt-5 Se parte de un patrón básico, una vez trazado se dibujan líneas hacia un punto en específico que será la dirección de la caída; se procede a recortar por las líneas, pero sin llegar al final, se coloca el patrón sobre otro papel y se abren sus trozos en abanico, la apertura depende del volumen buscado en el diseño, como paso final se calca el nuevo patrón, tal como se presenta en las siguientes figuras.
     Separador  
     #t_4_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.3  Escotes, cuellos y solapas
@@ -170,7 +170,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
             .titulo-sexto.color-acento-contenido
-              h5 Figura 29.
+              h5 Figura 40.
               span
                 |  Cuello hombro
             img(src='@/assets/curso/tema_4/img_31.svg')
@@ -180,7 +180,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 30.
+                h5 Figura 41.
                 span
                   |  Cuello disímil
               img(src='@/assets/curso/tema_4/img_32.svg')
@@ -190,7 +190,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 31.
+                h5 Figura 42.
                 span
                   |  Tipos de escotes
               img(src='@/assets/curso/tema_4/img_33.svg')
@@ -200,7 +200,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
             .titulo-sexto.color-acento-contenido
-              h5 Figura 32.
+              h5 Figura 43.
               span
                 |  Escote cuadrado 
             img(src='@/assets/curso/tema_4/img_36.svg')
@@ -210,7 +210,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 33.
+                h5 Figura 44.
                 span
                   |  Escote bandeja
               img(src='@/assets/curso/tema_4/img_37.svg')
@@ -220,7 +220,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 34.
+                h5 Figura 45.
                 span
                   |  Escote en "V"
               img(src='@/assets/curso/tema_4/img_38.svg')
@@ -230,7 +230,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 35.
+                h5 Figura 46.
                 span
                   |  Escote tipo blusa
               img(src='@/assets/curso/tema_4/img_39.svg')
@@ -240,7 +240,7 @@
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 36.
+                h5 Figura 47.
                 span
                   |  Escote en solapa
               img(src='@/assets/curso/tema_4/img_40.svg')
@@ -309,10 +309,10 @@
             p.text-white.text-center Constitución muy voluminosa desde el hombro al codo; incluso el antebrazo es grueso. 
 
 
-    p.mb-5 #[strong Análisis de la posición de los brazos]: el análisis de la posición del brazo respecto al cuerpo es muy importante para una perfecta caída de la manga. De hecho, la posición de la manga en el centro del hombro debe adaptarse a la constitución del sujeto y a la posición del brazo. Los principales defectos de posición son el brazo adelantado y el brazo atrasado
+    p.mb-5 #[strong Análisis de la posición de los brazos]: el análisis de la posición del brazo respecto al cuerpo es muy importante para una perfecta caída de la manga. De hecho, la posición de la manga en el centro del hombro debe adaptarse a la constitución del sujeto y a la posición del brazo. Los principales defectos de posición son el brazo adelantado y el brazo atrasado.
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 37.
+      h5 Figura 48.
       span
         |  Posición de brazos
     figure.mb-5
@@ -363,7 +363,7 @@
           p.mb-5 Tal como se aprecia en la siguiente figura.
       .col-lg-4
         .titulo-sexto.color-acento-contenido
-          h5 Figura 38.
+          h5 Figura 49.
           span
             |   Tipos de mangas.
         figure.mb-5
@@ -377,7 +377,7 @@
               span 4
             | #[b Cabeza de manga por cuadro de tallas]
 
-          p.mt-3 Suele ser categorizada para prendas casuales, la medida se identifica en el cuadro de tallas, este tipo de cabeza de manga es estandarizada, no se tiene en cuenta el comportamiento sobre el cuerpo y el tipo de prenda, como se muestra en la siguiente figura (Figura 39).
+          p.mt-3 Suele ser categorizada para prendas casuales, la medida se identifica en el cuadro de tallas, este tipo de cabeza de manga es estandarizada, no se tiene en cuenta el comportamiento sobre el cuerpo y el tipo de prenda, como se presenta en la siguiente figura (Figura 39).
 
     .row.mb-5
       .col-lg-8
@@ -403,7 +403,7 @@
 
       .col-lg-4
         .titulo-sexto.color-acento-contenido
-          h5 Figura 39.
+          h5 Figura 50.
           span
             |   Cabeza de manga.
         figure
@@ -416,7 +416,7 @@
     .row.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 40.
+          h5 Figura 51.
           span
             |  Medida de contornos en brazo
         figure.mb-3
@@ -425,17 +425,16 @@
         p #[strong Circunferencia brazo]: se mide pasando la cinta métrica alrededor de la parte más ancha del brazo, cerca de la axila. 
         p #[strong Circunferencia codo]: se mide la circunferencia en la parte central del codo. 
         p #[strong Circunferencia muñeca]: se mide la circunferencia justo sobre la mano.
-        p Tal como se muestra en la siguiente figura.
-      
+     
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 41.
+          h5 Figura 52.
           span
             |  Medida de largo en brazo
         figure.mb-3
           img.img-a(src='@/assets/curso/tema_4/img_28.svg', alt='Medida de largo en brazo')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
-        p #[strong Largo total brazo]: se mide a partir de la costura del hombro, en el mismo punto donde se mide el ancho de los hombros, llegando por el codo, con el brazo ligeramente doblado y hasta la articulación del antebrazo con la mano. La altura del codo se mide desde la costura del hombro hasta el hueso del codo, así como se muestra en la siguiente figura.  
+        p #[strong Largo total brazo]:  se mide a partir de la costura del hombro, en el mismo punto donde se mide el ancho de los hombros, llegando por el codo, con el brazo ligeramente doblado y hasta la articulación del antebrazo con la mano. La altura del codo se mide desde la costura del hombro hasta el hueso del codo.
     p.mb-5 Para el desarrollo del trazo o marcación de cabeza de manga existen infinidad de formas, fórmulas o metodologías; sin embargo, la clasificación anterior hace referencia a lo que se trabaja en el manual, en cualquier línea. Sin importar el tipo de línea es importante que tenga en cuenta siempre la lógica del comportamiento de las cabezas de manga, según el tipo de prenda.
     .row.mb-5
       .col-lg-12

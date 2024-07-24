@@ -3,18 +3,19 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 8%
-    left: 15%
+    left: -10%
 
   &-2
     animation: float2 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 70%
-    left: -15%
+    top: 20%
+    right: 10%
+
   &-3
     animation: float3 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 68%
-    right: 0%
+    top: 65%
+    right: 10%
 
 @keyframes float1
   0%
@@ -35,7 +36,8 @@
 
 .banner-principal__img 
   padding-bottom: 0 !important;
-    
+.banner-principal__row .banner-principal__img
+  padding-right: 0 !important    
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
     color: $color-sistema-texto !important
@@ -50,7 +52,9 @@
 
 .lista-ul--color li > i:first-of-type 
     color: $color-acento-botones;
-
+.txt-18-bold
+  font-size: 16px
+  font-weight: bold
 .anexo 
   background-color: $color-acento-contenido;
 .anexo * 
@@ -62,7 +66,7 @@
 
 .f-bold-18
   font-size: 18px
-  font-weight: 700
+  font-weight: 900
 
 .bg01
   background-color: #DEE4F0 !important
@@ -88,6 +92,9 @@
   border-radius: 20px
 .bg09
   background-color: #E5DACE
+
+.bg10
+  background-color: #C9D8D7
 .acordion__titulo
     padding-left: 3rem !important;
 .ml-0-cus
@@ -110,7 +117,7 @@
   background-color: $color-sistema-b
   border-radius: 20px !important
 .tarjeta--azul.acordion__activo
-    background-color: #EAFAF7 !important
+    background-color: #E8E8E8 !important
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
     background-color: #F5947A;
@@ -118,7 +125,11 @@
 .slyder-a__bullets__item--active 
     background-color: #F5947A;
     border-color: #F5947A;
+.titulo-sexto.color-white
+    border-left-color: #fff;
 
+.anexo.bg-white
+    background-color: #FFF !important
 
 
 .bloque-texto-a.color-primario 

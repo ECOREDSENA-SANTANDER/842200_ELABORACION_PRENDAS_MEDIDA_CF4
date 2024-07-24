@@ -8,7 +8,7 @@
         span 3
       h1 El pantalón femenino y sus variantes
 
-    p.mb-5(data-aos="zoom-in-left") La tipología del pantalón parte de una base inferior y se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según las modificaciones de largos, amplitudes, detalles y cortes. De las variaciones de pantalón femenino se pueden obtener los básicos de short, capri, jean, bermudas, entre otros.
+    p.mb-5(data-aos="zoom-in-left") La tipología del pantalón parte de una base inferior y se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según las modificaciones de largos, amplitudes, detalles y cortes. De las variaciones de pantalón femenino se pueden obtener los básicos de #[i short, capri, jean], bermudas, entre otros.
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .bloque-texto-f.bg07.pt-5.px-5.mb-5
@@ -24,11 +24,11 @@
 
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p.mt-5 Es importante antes de su construcción realizar el análisis de la base inferior; esta base sale del plano, trazando primero la parte delantera y sobre el delantero trazando el posterior, esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero. La base de pantalón femenina sale con margen de costura, en este caso, aunque es un básico se trabaja con margen de costura, con el fin de manejar los desniveles de medida para la horma, el caso está en diferenciar y entender el porqué y el cómo del margen de costura.
+        p.mt-5 Es importante, antes de su construcción, realizar el análisis de la base inferior; esta base sale del plano, trazando primero la parte delantera y sobre el delantero trazando el posterior, esto se debe a que varias de las medidas curvas y demás, son tomadas de la referencia del trazo del delantero. La base de pantalón femenina sale con margen de costura en este caso, aunque es un básico se trabaja con margen de costura, con el fin de manejar los desniveles de medida para la horma, la clave está en diferenciar y entender el porqué y el cómo del margen de costura.
         p Para lograr identificar o entender el margen de costura es necesario identificar los contornos por los que va pasando el pantalón, estos son: contorno de cintura, contorno de cadera, contorno de rodilla y contorno de bota.
-        p Al identificar cada uno de los contornos se podrían categorizar como contornos completos cintura y cadera, contornos que deben repetirse o marcarse dos veces sobre el cuerpo, rodilla y bota, debido a la división del cuerpo en las extremidades inferiores.
+        p Al identificar cada uno de los contornos se podrían categorizar como contornos completos el de cintura y el de cadera, contornos que deben repetirse o marcarse dos veces sobre el cuerpo, el de rodilla y el de bota, debido a la división del cuerpo en las extremidades inferiores.
         p Al tener en cuenta la introducción anterior, es importante aclarar que en los contornos se identifica el aumento de costura por: 
-
+      
       .col-sm-12.col-lg-4
         img.d-none.d-lg-block(src="@/assets/curso/tema_3/img_1.svg")
 
@@ -57,24 +57,24 @@
 
     .row.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p En este caso para poder trabajar el margen de costura de manera lineal se elabora únicamente con una de las extremidades inferiores, es decir, con la mitad del cuerpo para lograr cubrir el contorno de pierna sin inconveniente.
-        p La sumatoria de los márgenes de costura depende del tipo de maquinaria y operación que se trabaje en la empresa: sin embargo, el común denominador del margen de costura que se asigna es de 1 cm,  es decir, que si se trabaja cada uno de los puntos de referencia para asignar el margen de costura quedaría de la siguiente manera.
+        p En este caso, para poder trabajar el margen de costura de manera lineal se elabora únicamente con una de las extremidades inferiores, es decir, con la mitad del cuerpo para lograr cubrir el contorno de pierna sin inconveniente.
+        p La sumatoria de los márgenes de costura depende del tipo de maquinaria y operación que se trabaje en la empresa: sin embargo, el común denominador del margen de costura que se asigna es de 1 cm, es decir, que si se trabaja cada uno de los puntos de referencia para asignar el margen de costura quedaría de la siguiente manera.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .titulo-sexto.color-acento-contenido
-          h5 Figura 12.
+          h5 Figura 22.
           span
             | Puntos de referencia para una costura.
         figure
-          img(src='@/assets/curso/tema_3/img_4.svg', alt='Bolsillo delantero de jean')
+          img(src='@/assets/curso/tema_3/img_4.svg')
           figcaption Nota. SENA (2021).
 
     Separador  
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.2. Distribución de aumentos de costura
 
-    p.mb-5(data-aos="zoom-in-left") Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo, como se muestra en la tabla 1.
+    p.mb-5(data-aos="zoom-in-left") Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo, como se presenta en la tabla 1.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
@@ -97,7 +97,7 @@
       .col-sm-12.col-lg-3
         img.d-none.d-lg-block(src="@/assets/curso/tema_3/img_6.png")
       .col-sm-12.col-lg-9
-        p Con el propósito de que conozca los pasos para crear la base de pantalón inferior femenino consulte el manual de patronaje básico para interpretación de diseños, desde la página 28 a la 30.
+        p Con el propósito de que conozca los pasos para crear la base de pantalón inferior femenino consulte el manual de patronaje básico para interpretación de diseños, desde la página 31 a la 33.
 
         .row.justify-content-center.mt-5
           .col-lg-8
@@ -173,7 +173,7 @@
                   | Sobre la línea de tiro por centro frente se prolonga la medida o el resultado de la fórmula. Todo lo anterior tal como se ilustra en la imagen línea de tiro.
                 li 
                   i.lista-ul__vineta
-                  | #[strong Conocer la línea de aplome]: corresponde a la alineación de todo el pantalón. Para esto se debe trazar ½ de medida por la línea de tiro, incluyendo la extensión o gancho de tiro, como se muestra en la imagen división en línea de tiro.
+                  | #[strong Conocer la línea de aplome]: corresponde a la alineación de todo el pantalón. Para esto se debe trazar ½ de medida por la línea de tiro, incluyendo la extensión o gancho de tiro, como se presenta en la imagen división en línea de tiro.
                 li 
                   i.lista-ul__vineta
                   | #[strong Largos]: entre la línea de tiro y la línea de largo total, aparece la línea de altura de rodilla.
@@ -182,7 +182,7 @@
                   | #[strong Línea de rodilla]: desde la línea de tiro hasta el largo total por línea de aplome / 2, de la mitad hacia arriba subir 5 cm.
           .col-sm-12.col-lg-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 13.
+              h5 Figura 23.
               span
                 |  Línea de tiro
             figure.mb-5
@@ -190,7 +190,7 @@
               figcaption Nota.  SENA (2021)
 
             .titulo-sexto.color-acento-contenido
-              h5 Figura 14.
+              h5 Figura 24.
               span
                 |  División en línea de tiro
             figure
@@ -229,7 +229,7 @@
               li 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 8
-                | #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se observa en las imagenes división en bota y aumento en bota.  
+                | #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se presenta en las imagenes división en bota y aumento en bota.  
 
             .row.justify-content-center
               .col-lg-12
@@ -245,7 +245,7 @@
                 | Definir el cierre del pantalón donde se debe marcar de bota a rodilla en línea recta, por costado y entrepierna. Desde el punto de línea de tiro costado se une en curvas encontradas.
           .col-sm-12.col-lg-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 15.
+              h5 Figura 25.
               span
                 | División en bota
             figure.mb-5
@@ -253,7 +253,7 @@
               figcaption Nota. SENA (2021)
 
             .titulo-sexto.color-acento-contenido
-              h5 Figura 16.
+              h5 Figura 27.
               span
                 |  Aumento en bota
             figure
@@ -297,7 +297,7 @@
         .row.justify-content-center
           .col-sm-12.col-lg-2
             .titulo-sexto.color-acento-contenido
-              h5 Figura 18.
+              h5 Figura 28.
               span
                 | Pinza en la cintura
             figure
@@ -319,14 +319,14 @@
               li 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 4
-                | Separar el busto y el vértice de pinza desde los básicos; se suelen identificar los puntos de vértice de pinza, los cuales sirven como punto de referencia para cualquier implementación del manual. El vértice de pinza es ½ de medida de cintura, incluyendo la pinza y la costura, como se muestra en la siguiente figura.
+                | Separar el busto y el vértice de pinza desde los básicos; se suelen identificar los puntos de vértice de pinza, los cuales sirven como punto de referencia para cualquier implementación del manual. El vértice de pinza es ½ de medida de cintura, incluyendo la pinza y la costura, como se presenta en la siguiente figura.
 
              
       .tarjeta.bg05.p-4(titulo="Tercera parte")
         .row.justify-content-center
           .col-sm-12.col-lg-2
             .titulo-sexto.color-acento-contenido
-              h5 Figura 18.
+              h5 Figura 29.
               span
                 | Ancho de pinza
             figure
@@ -338,7 +338,7 @@
               li 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 5
-                | Definir el ancho de pinza, el cual se compone por primer y segundo lado de pinza, por lo general se suele distribuir el ancho a lado y lado del vértice, es decir, en este caso que la pinza es de 3 cm la distribución se hace desde el vértice de pinza 1.5 cm a cada lado, tal como se muestra en la siguiente figura.
+                | Definir el ancho de pinza, el cual se compone por primer y segundo lado de pinza, por lo general se suele distribuir el ancho a lado y lado del vértice, es decir, en este caso que la pinza es de 3 cm la distribución se hace desde el vértice de pinza 1.5 cm a cada lado, tal como se presenta en la siguiente figura.
               li 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 6
@@ -379,12 +379,12 @@
     #t_3_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2  3.4. Variantes de pantalón femenino   
 
-    p.mb-5(data-aos="zoom-in-left") Según modificaciones de largos, amplitudes, detalles y cortes se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura del cliente hasta el punto de la pierna que lo sugiera el diseño, como se muestra en la siguiente figura.
+    p.mb-5(data-aos="zoom-in-left") Según modificaciones de largos, amplitudes, detalles y cortes se pueden obtener los básicos inferiores. Las medidas de largos se deben tomar desde la cintura del cliente hasta el punto de la pierna que lo sugiera el diseño, como se presenta en la siguiente figura.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .titulo-sexto.color-acento-contenido
-              h5 Figura 19.
+              h5 Figura 30.
               span
                 | Tipologías de pantalón según largo
         figure

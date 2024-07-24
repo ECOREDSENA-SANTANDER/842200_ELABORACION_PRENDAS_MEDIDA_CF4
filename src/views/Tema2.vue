@@ -63,19 +63,19 @@
             li 
               i.fas.fa-bullseye.color-acento-botones 
               span.h3.txt_top Los botones y ojales
-        p Además de cumplir su función de abotonar, también forman parte del diseño y acabado de un producto de vestir. Algunas piezas de los moldes estarán sujetas a ser modificadas según el tamaño de los insumos anteriormente mencionados; entre los tipos de botones se encuentran planos, semiredondos, semiesféricos y esféricos, estos se diferencian en tamaños por líneas y por diámetro como se muestra en la siguiente figura.
+        p Además de cumplir su función de abotonar, también forman parte del diseño y acabado de un producto de vestir. Algunas piezas de los moldes estarán sujetas a ser modificadas según el tamaño de los insumos anteriormente mencionados; entre los tipos de botones se encuentran planos, semiredondos, semiesféricos y esféricos, estos se diferencian en tamaños por líneas y por diámetro como se presenta en la siguiente figura.
             
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.mt-5.bg04.p-5
         .row 
           .col-sm-12.col-lg-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 7.
+              h5 Figura 9.
               span
                 |  Líneas en botones
           .col-sm-12.col-lg-8
             figure
-              img(src='@/assets/curso/tema_2/img_3.svg', alt='Traslados de pinza en base')
+              img(src='@/assets/curso/tema_2/img_3.svg', alt='La imagen presenta una serie de ilustraciones de botones y ojales con especificaciones técnicas. En la primera columna se encuentran los tamaños que existen de botones comenzando por línea 14, diámetro 7mm y finalizando en  línea 80, diámetro 5cm. En la otra columna se describen diferentes tipos de botones y ojales.')
               figcaption Nota. Carrera de diseño y gestión de moda (2015)
     
     .row.justify-content-center(data-aos="zoom-in-left")
@@ -84,47 +84,71 @@
             li 
               i.fas.fa-bullseye.color-acento-botones 
               span.h3.txt_top El ojal
-        p Es una abertura en la tela para pasar los botones, para calcular el alargamiento de este de acuerdo con los diferentes tamaños de botón se considera el tamaño que se muestra en la figura 11. 
-        p Por ejemplo, al utilizar botones de línea 40 (2,5 cm de diámetro) la extensión del ojal debe ser mayor que el botón (2,75 a 3 cm). De esta manera, el proceso es fácil de realizar al abrochar la ropa, pero el ojal no puede ser tan grande, ya que tiene el riesgo de ver el cuerpo a través del agujero, como se muestra en la siguiente figura
+        p Es una abertura en la tela para pasar los botones, para calcular el alargamiento de este de acuerdo con los diferentes tamaños de botón se considera el tamaño que se presenta en la figura 11. 
+        p Por ejemplo, al utilizar botones de línea 40 (2,5 cm de diámetro) la extensión del ojal debe ser mayor que el botón (2,75 a 3 cm). De esta manera, el proceso es fácil de realizar al abrochar la ropa, pero el ojal no puede ser tan grande, ya que tiene el riesgo de ver el cuerpo a través del agujero, como se presenta en la siguiente figura.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.mt-5.bg04.p-5
         .row 
           .col-sm-12.col-lg-4
             .titulo-sexto.color-acento-contenido
-              h5 Figura 8.
+              h5 Figura 10.
               span
                 |  Aumento para el ojal
           .col-sm-12.col-lg-8
             figure
-              img(src='@/assets/curso/tema_2/img_4.svg', alt='Aumento para el ojal')
+              img(src='@/assets/curso/tema_2/img_4.svg', alt='La figura detalla la medida que debe tener el ojal basándose en un botón línea 40.')
               figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
-    p.mb-5(data-aos="zoom-in-left") A continuación, observe atentamente los pasos para realizar el aumento para el ojal.
+    p.mb-5(data-aos="zoom-in-left") A continuación, siga atentamente los pasos para realizar el aumento para el ojal.
 
     TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
       .tarjeta.bg05.p-4(titulo="Extensión de delantero")
         p Por el centro frente se encuentra un ojal de 0,3 cm a través de la línea central de la prenda. En el caso de los botones, estos se ubican en la misma línea del centro.
-        figure
-          img.img-a(src='@/assets/curso/tema_2/img_5.svg', alt='Aumento para el ojal')
+        .row.justify-content-center.px-0.mx-0
+          .col-sm-12.col-lg-8.bg10.px-0.mx-0
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 11.
+              span
+                |  Extensión de delantero
+            figure
+              img.img-a(src='@/assets/curso/tema_2/img_5.svg', alt='La figura presenta un boceto donde se describe la ubicación de los ojales y los botones.')
 
       
       .tarjeta.bg05.p-4(titulo="Montado de delanteros")
         p Cuando los ojales de la prenda están elaborados de forma vertical se coloca el primer y el último botón al tope del primer y último ojal; mientras que los demás botones se colocan al centro de los ojales. 
-        figure
-          img.img-a(src='@/assets/curso/tema_2/img_6.svg', alt='Montado de delanteros')
+        .row.justify-content-center.px-0.mx-0
+          .col-sm-12.col-lg-8.bg10.px-0.mx-0
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 12.
+              span
+                |  Montado de delanteros
+            figure
+              img.img-a(src='@/assets/curso/tema_2/img_6.svg', alt='La figura presenta un boceto de camisa con botones delanteros y la ubicación de los ojales para cada botón.')
 
 
       .tarjeta.bg05.p-4(titulo="Falsos o vueltas")
         p Es una pieza aparte que se utiliza para hacer el dobladillo, el escote o el remate de los puños. Para crear un falso debe dibujar su forma en el patrón y luego copiarlo para que su ancho máximo sea de 5 a 6 cm.
-        figure
-          img.img-a(src='@/assets/curso/tema_2/img_7.svg', alt='Falsos o vueltas')
+        .row.justify-content-center.px-0.mx-0
+          .col-sm-12.col-lg-8.bg10.px-0.mx-0
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 13.
+              span
+                |  Falsos o vueltas
+            figure
+              img.img-a(src='@/assets/curso/tema_2/img_7.svg', alt='la figura presenta dos bocetos de camisa, delantero y posterior, donde se detalla sobre cada uno, y en líneas punteadas, las vueltas de escote y de sisa.')
       
       
       .tarjeta.bg05.p-4(titulo="Falsos continuos")
         p Este tipo de vueltas son recomendadas para las prendas con hombros angostos con falsos continuos. 
-        figure
-          img.img-a(src='@/assets/curso/tema_2/img_8.svg', alt='Falsos continuos')
+        .row.justify-content-center.px-0.mx-0
+          .col-sm-12.col-lg-8.bg10.px-0.mx-0
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 14.
+              span
+                |  Falsos continuos
+            figure
+              img.img-a(src='@/assets/curso/tema_2/img_8.svg', alt='La figura presenta dos bocetos, delantero y espalda donde se detalla el falso continuo en línea punteada, por separado, también se presentan los falsos.')
 
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
@@ -139,8 +163,12 @@
       .tarjeta.bg06.p-4(titulo="Perilla")
         .row
           .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 15.
+              span
+                | Perillas
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_9.svg', alt='Perilla')
+              img.img-a(src='@/assets/curso/tema_2/img_9.svg', alt='La figura presenta la manera como se debe colocar la perilla sobre el molde de camisa delantero.')
           .col-lg-6
             h3 Perilla
             p En el delantero se dibuja la perilla del largo y forma requerida y se suma el margen de costura. 
@@ -148,8 +176,12 @@
       .tarjeta.bg06.p-4(titulo="Pieza perilla")
         .row
           .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 16.
+              span
+                | Pieza perilla
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_10.svg', alt='Pieza perilla')
+              img.img-a(src='@/assets/curso/tema_2/img_10.svg', alt='La figura presenta la perilla ubicada sobre el molde, adicionalmente, con una línea punteada, se señala la margen para las costuras.')
           .col-lg-6
             h3 Pieza perilla
             p Realizar el rectángulo de la perilla, aumentando el dobladillo aproximadamente 3 cm y los márgenes de costura necesarios. 
@@ -157,8 +189,12 @@
       .tarjeta.bg06.p-4(titulo="Extensión en frente")
         .row
           .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 17.
+              span
+                | Extensión en frente
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_11.svg', alt='Extensión en frente')
+              img.img-a(src='@/assets/curso/tema_2/img_11.svg', alt='La figura presenta la perilla ubicada sobre el patrón de camisa.')
           .col-lg-6
             h3 Extensión en frente
             p Para crear una perilla para camisa o blusa se dibuja sobre el patrón. Se calcula el margen de costura en el patrón y se recorta el sobrante. 
@@ -166,8 +202,12 @@
       .tarjeta.bg06.p-4(titulo="Perilla separada")
         .row
           .col-lg-6
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 18.
+              span
+                | Perilla separada
             figure
-              img.img-a(src='@/assets/curso/tema_2/img_12.svg', alt='Perilla separada')
+              img.img-a(src='@/assets/curso/tema_2/img_12.svg', alt='La figura presenta un ejemplo donde se observa la perilla dibujada de manera individual, con las respectivas márgenes en línea punteada, adicionalmente, el molde de la camisa con la perilla superpuesta.')
           .col-lg-6
             h3 Perilla separada
             p Se crea el patrón de la perilla haciendo la forma curveada del escote y agregando los márgenes de costura necesarios.
@@ -180,7 +220,7 @@
               span.h3.txt_top Bolsillos
 
     p.mb-5(data-aos="zoom-in-left") Existen diferentes clases de bolsillos y unas variantes que dependen del diseño requerido. En las siguientes figuras se relacionan los más representativos.
-    .row.mb-5.justify-content-center(data-aos="zoom-in-left")
+    .row.mb-0.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Bolsillo básico")
@@ -189,11 +229,11 @@
               p.mb-5 Ejemplo: realizar un rectángulo de 6 x 12 cm. Desde el centro inferior prolongar 2,5 cm y unir los puntos con una línea recta como indica la figura 9.
 
               .titulo-sexto.color-acento-contenido
-                h5 Figura 9.
+                h5 Figura 19.
                 span
                   |  Bolsillo básico
               figure
-                img(src='@/assets/curso/tema_2/img_13.svg', alt='Bolsillo básico')
+                img(src='@/assets/curso/tema_2/img_13.svg', alt='En la figura se describe el tamaño del bolsillo teniendo en cuenta el diseño.')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
           .row.justify-content-center(titulo="Bolsillo con pliegue")
@@ -202,28 +242,28 @@
               p.mb-5 Ejemplo: realizar un rectángulo de 6 cm x 12 cm. Cortar un rectángulo por la mitad e insertar la cantidad necesaria para el pliegue tal como se indica en la figura 10. Luego, se aumenta la costura y el dobladillo.
 
               .titulo-sexto.color-acento-contenido
-                h5 Figura 10.
+                h5 Figura 20.
                 span
                   |  Bolsillo con pliegue
               figure
-                img(src='@/assets/curso/tema_2/img_17.svg', alt='Bolsillo básico')
+                img(src='@/assets/curso/tema_2/img_17.svg', alt='Se describe el pliegue que puede hacerse al bolsillo incluyendo las medidas')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
-          .row.justify-content-center(titulo="Bolsillo delantero de un jean")
+          .row.justify-content-center(titulo="Bolsillo delantero de un <i>jean</i>")
             .col-lg-10
-              p Si se requiere el #[strong bolsillo con tapa] se realiza otro rectángulo de 6 cm x 5 cm. Del costado superior se baja 3,5 cm y se traza la forma de la punta según el diseño. Por último, se aumenta la costura y el dobladillo, tal como se muestra en la siguiente figura.
+              p Si se requiere el #[strong bolsillo con tapa] se realiza otro rectángulo de 6 cm x 5 cm. Del costado superior se baja 3,5 cm y se traza la forma de la punta según el diseño. Por último, se aumenta la costura y el dobladillo, tal como se presenta en la siguiente figura.
 
-              p.mb-5 Bolsillo delantero de un jean: dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
+              p.mb-5 Bolsillo delantero de un #[i jean]: dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
 
               .titulo-sexto.color-acento-contenido
-                h5 Figura 11.
+                h5 Figura 21.
                 span
-                  |   Bolsillo delantero de jean
+                  |   Bolsillo delantero de #[i jean]
               figure
-                img(src='@/assets/curso/tema_2/img_14.svg', alt='Bolsillo delantero de jean')
+                img(src='@/assets/curso/tema_2/img_14.svg', alt='Se presentan los patrones del bolsillo delantero de un pantalón teniendo en cuenta las medidas y la profundidad.')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
  
-            Separador  
+    Separador  
     #t_2_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.4 Trazo de vestido clásico
 
@@ -233,14 +273,21 @@
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-4 #[strong Pasos detallados para realizar el trazo del vestido]: el vestido clásico sin unión en la cintura se puede transformar en un sinfín de otros básicos, es solo la acción de dar amplitud, al cambiar el largo se obtiene una forma y da paso a una nueva silueta. A continuación, se presentan los pasos detallados para realizar la base de superior femenina.
-          p #[strong Variación del vestido]: partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos. 
+          a.anexo.bg-white.ml-0-cus.mt-5-cus(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenina.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-pdf-2.svg")
+            .anexo__texto
+              p.my-0 #[strong Anexo]. Base superior femenina
+          
+          
 
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img.w-75(src="@/assets/curso/tema_2/img_15.svg")
 
 
    
-    p.mb-5(data-aos="zoom-in-left") Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos explore siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
+    p #[strong Variación del vestido]: partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos. 
+    p.mb-5(data-aos="zoom-in-left") Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos explore, siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
     .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.px-0
         a.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
@@ -249,11 +296,7 @@
             .anexo__texto
             p.my-0 #[strong Anexo]. Manual de patronaje básico e interpretación de diseños
       .col-sm-12.col-lg-5
-        a.anexo.ml-0-cus.mt-5-cus(:href="obtenerLink('/downloads/CF4_B_9_Base_Superior_Femenina.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf-2.svg")
-          .anexo__texto
-            p.my-0 #[strong Anexo]. Base superior femenina
+        
 
     p.mb-5(data-aos="zoom-in-left") De igual forma, para que conozca cómo realizar el trazo de prendas como batas y vestidos consulte el siguiente video.
 

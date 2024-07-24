@@ -11,18 +11,17 @@
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-lg-12
         p.mb-3 Los patrones básicos son el producto seguido a la aplicación de las medidas anatómicas, por consiguiente, es un calco del cuerpo; sin embargo, estos patrones no pueden ser utilizados para ser cortados de forma inmediata en tela o utilizados para elaborar una prenda, ya que antes deben recibir adaptaciones (desahogos, amplitudes, cortes, etc.) para proceder a ser utilizados en producción. De su calidad dependerá la estabilidad dimensional del patrón y el buen calce de la prenda una vez confeccionada. 
-        p.mb-5 Los patrones base o básicos se crean según el tipo de prenda como se muestra en la siguiente figura.
+        p.mb-5 Los patrones base o básicos se crean según el tipo de prenda como se presenta en la siguiente figura.
 
-    .row.mb-3(data-aos="zoom-in-left")
-      .col-md-12.mx-auto
+    
+    .row.justify-content-center
+      .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span
             |  División de moldes según el tipo de prenda
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-10
         figure.mb-5
-          img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='División de moldes según el tipo de prenda')
+          img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='La figura presenta una silueta humana, enmarcada desde el cuello hasta los tobillos y dividida en dos por la cintura. Cerca al hombro se lee: bases o básicos superiores acompañado de 3 dibujos de camisetas de diferente tipo. Cerca a la cintura se lee: bases o básicos monoprenda, acompañado del dibujo de un vestido y un overall. Cerca de la rodilla se lee: bases o básicos inferiores, acompañado de tres tipos de pantalones diferentes.')
           figcaption Nota: SENA (2021)
 
   
@@ -41,7 +40,7 @@
           span
             | Longitud de falda
         figure
-          img(src='@/assets/curso/tema_1/img_2.png', alt='Longitud de falda')
+          img(src='@/assets/curso/tema_1/img_2.png', alt='Se presenta un boceto con 7 figuras femeninas vistiendo faldas de diferente longitud de largo: Micromini; justo debajo de glúteo Mini: mitad del muslo Arriba de la rodilla: justo arriba de la rodilla En la pantorrilla: debajo de la rodilla Ballerina: en la mitad de la pantorrilla Al tobillo: justo encima del tobillo Al piso: debajo del tobillo.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
       
       .col-sm-12.col-lg-4.mx-auto.mb-5
@@ -50,15 +49,15 @@
           span
             | Circunferencia de la cintura
         figure
-          img.alt_img(src='@/assets/curso/tema_1/img_17.png', alt='Circunferencia de la cintura')
+          img.alt_img(src='@/assets/curso/tema_1/img_17.png', alt='El boceto presenta dos tipos de cintura en faldas.  Falda cintura baja: debajo del ombligo , pasando por los huesos de la pelvis Falda cintura alta: encima de la cintura.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
     
 
     .row(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p.mb-5 Para hacer el trazado de este tipo de falda se debe tomar como punto de partida las medidas anatómicas con precisión, no deben sumar centímetros de más, por ello, se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda siempre se trabaja partiendo de un rectángulo e identificando los siguientes puntos:
-        ul.lista-ul--color.mb-5
+        p.mb-4 Para hacer el trazado de este tipo de falda se debe tomar como punto de partida las medidas anatómicas con precisión, no deben sumar centímetros de más, por ello, se recomienda seguir con atención los pasos del manual de patronaje básico e interpretación de diseños que se relaciona a continuación, pues el básico inferior de falda siempre se trabaja partiendo de un rectángulo e identificando los siguientes puntos:
+        ul.lista-ul--color.mb-4
           li 
             i.fas.fa-bullseye.color-acento-botones
             | Parte superior (cintura) – línea superior.
@@ -72,12 +71,12 @@
             i.fas.fa-bullseye
             | Parte izquierda – delantero. 
 
+        p.mb-5 De igual manera, se recomienda que consulte el video base inferior falda femenino que le permitirá conocer el paso a paso para realizar el básico de una falda.
       
       .col-sm-12.col-lg-4.d-none.d-lg-block
         figure
           img.img-a(src='@/assets/curso/tema_1/img_3.png')
 
-    p.mb-5(data-aos="zoom-in-left") De igual manera, se recomienda que consulte el video base inferior falda femenino que le permitirá conocer el paso a paso para realizar el básico de una falda.
     
     .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
@@ -90,13 +89,13 @@
               p Los patrones básicos para hacer una falda a una pinza y a dos pinzas en escala, p. 31-32.
     
     
-    p.BorTit(data-aos="zoom-in-left") Base inferior falda femenino
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/wl5EjrLU-8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video explicativo con la información sobre el paso a paso para realizar el básico de una falda.
+      figcaption VIDEO SENA - Base inferior falda femenino
 
-    p.mb-5.fw-bold(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
+    p.mb-5.txt-18-bold(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
 
     p.f-bold-18.mb-5(data-aos="zoom-in-left") Conozca los pasos detallados para realizar la base de falda  
 
@@ -180,7 +179,7 @@
 
     .row.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p Las faldas rotondas son también conocidas como las faldas plato, debido a que el patrón de esta tipología parte de una circunferencia. Las faldas rotondas se hicieron famosas en los años 50 con el inicio del estilo new look del famoso diseñador Christian Dior.
+        p Las faldas rotondas son también conocidas como las faldas plato, debido a que el patrón de esta tipología parte de una circunferencia. Las faldas rotondas se hicieron famosas en los años 50 con el inicio del estilo #[i new look] del famoso diseñador Christian Dior.
 
         p.mb-5 En la siguiente figura puede apreciar los tipos de faldas rotondas.
 
@@ -191,7 +190,7 @@
           span
             |  Tipos de faldas rotondas
         figure.mb-5
-          img.img-a(src='@/assets/curso/tema_1/img_4.png', alt='Tipos de faldas rotondas')
+          img.img-a(src='@/assets/curso/tema_1/img_4.png', alt='La fotografía presenta lo siguiente: Falda rotonda: mayor número de pliegues pequeños, una falda con mucho movimiento. Falda circular: menor número de pliegues medianos, una falda con movimiento. Falda semicircular: una falda con pliegues amplios.')
           figcaption Nota. Confecciones Linda (2019)
 
         p De igual forma, se recomienda que consulte el video trazo de faldas rotondas que le permitirá conocer cómo realizar este trazo.
@@ -204,9 +203,9 @@
     .row.mb-5(data-aos="zoom-in-left")
       .col-lg-12
         .cajon.color-acento-contenido.p-4.mb-4.px-5
-          p #[strong Modificación de básicos de falda:] para obtener un buen resultado del análisis de una prenda se debe tener en cuenta la tipología, la tela, las características del diseño, los cortes, el sistema de cierre y los complementos. El propósito del ejercicio es poder comparar métodos de implementación básicos, aplicando el mismo tipo a diferentes tipos de diseños.
+          p #[strong Modificación de básicos de falda:] para obtener un buen resultado del análisis de una prenda se debe tener en cuenta la tipología, la tela, las características del diseño, los cortes, el sistema de cierre y los complementos. El propósito del ejercicio es poder comparar métodos de implementación básicos, aplicando el mismo método a diferentes tipos de diseños.
 
-          p A continuación, se presenta el video trazo de falda y modificación de básicos de falda a través del cual podrá conocer sobre el trazo de faldas y modificación de básicos de faldas.
+          p Para que conozca en detalle el trazo de faldas y modificaciones de básicos de faldas, consulte el video que se presenta a continuación:
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
@@ -244,12 +243,16 @@
       div(titulo="Volumen de la prenda")
         p #[strong Existen] prendas más grandes que el cuerpo, iguales o más pequeñas como las elaboradas en tejidos de punto o con telas licradas. La diferencia entre la prenda y el cuerpo que la viste recibe el nombre de #[strong desahogo], el mayor o menor desahogo condiciona el volumen de la prenda. Debe tenerse en cuenta que se debe mantener constante el desahogo de una prenda en todas las tallas del mismo diseño. 
 
-        p.mb-5 A continuación, se muestran los valores de desahogo estimados según el tipo de prenda y volumen deseado.
+        p.mb-5 A continuación, se presentan los valores de desahogo estimados según el tipo de prenda y volumen deseado.
 
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 1.
+          span
+            |  Valores de desahogo.
         .tabla-b.color-acento-contenido.mb-5
           table
             thead
-              tr.tabla-b__header.text-white
+              tr.tabla-b__header
                 th Prenda
                 th Estrecho
                 th Ajustada
@@ -310,11 +313,14 @@
         
       div(titulo="Volumen del tejido")
         p.mb-5 En función del volumen del tejido los anteriores valores pueden ser ajustados de la siguiente manera, los cuales son aplicados al contorno.
-
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 2.
+          span
+            |  Ajuste de desahogo.
         .tabla-b.color-acento-contenido.mb-5
           table
             thead
-              tr.tabla-b__header.text-white
+              tr.tabla-b__header
                 th Muy fino
                 th Fino
                 th Normal
@@ -328,14 +334,25 @@
                 td +4 cm
 
       div(titulo="Pasos para el trazo de la base superior")
-        p.mb-5 Cuando se habla de la base superior se hace referencia a la copia de la horma del cuerpo, partiendo del cuello hasta la cintura, dicha base será la plantilla que se adecuará para convertirse en:
-        figure
-          img.img-a(src='@/assets/curso/tema_1/img_6.png', alt='Pasos para el trazo de la base superior')
+        p.mb-5 Cuando se habla de la base superior se hace referencia a la copia de la horma del cuerpo, partiendo del cuello hasta la cintura, dicha base será la plantilla que se adecuará para convertirse en alguna de las prendas que se detallan en la siguiente figura:
+        .row.justify-content-center.mb-5
+          .col-sm-12.col-lg-6
+            .titulo-sexto.color-white
+              h5 Figura 5.
+              span
+                | Prendas para base superior. 
+            figure
+              img.img-a(src='@/assets/curso/tema_1/img_6.png', alt='La figura ilustra las siguientes prendas de vestir: blusa, camiseta, chaqueta, chaleco y vestido.')
 
     p.mb-5.text-center(data-aos="zoom-in-left") A continuación, se relacionan las medidas a utilizar para el trazo de la base. 
-
-    figure.mb-5(data-aos="zoom-in-left")
-      img.img-a(src='@/assets/curso/tema_1/img_7.svg', alt='Medidas a utilizar para el trazo de la base') 
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-10
+        .titulo-sexto.color-acento-contenido
+            h5 Figura 6.
+            span
+              | Medidas trazo base superior.
+        figure.mb-5
+          img(src='@/assets/curso/tema_1/img_7.svg', alt='En el diagrama de flujo, se enuncian secuencialmente las siguientes medidas: contorno de cintura, contorno de cadera, contorno de busto, contorno de cuello, largo hombro, caída hombro, centro atrás, talle espalda, separación de busto, ancho pecho, centro frente, talle frente, costado, profundidad de sisa.') 
 
     p.mb-5(data-aos="zoom-in-left") De igual forma, se recomienda que consulte el manual de patronaje básico e interpretación de diseños para que conozca el patrón base superior femenino.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -557,37 +574,37 @@
         li.mb-5
           .lista-ol--cuadro__vineta.color-acento-botones
             span 2
-          span #[strong Pivoteo (girar)]: este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza. Tal como se muestra en la imagen, existen varios puntos de traslados de pinzas, como lo son:
+          span #[strong Pivoteo (girar)]: este método no requiere cortar el patrón básico, sino girarlo a través del punto de busto transfiriendo de esta manera la pinza. Tal como se presenta en la imagen, existen varios puntos de traslados de pinzas, como lo son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left") 
       .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5.
+          h5 Figura 7.
           span
             |  Puntos de traslado de pinza
         figure.mb-3
-          img(src='@/assets/curso/tema_1/img_11.svg', alt='Puntos de traslado de pinza')
+          img(src='@/assets/curso/tema_1/img_11.svg', alt='La imagen presenta un dibujo lineal de un patrón de costura para una prenda, posiblemente un chaleco o una parte superior sin mangas. Hay nueve secciones numeradas, cada una representando diferentes puntos para realizar un traslado de pinza.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
 
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p Después de tener en cuenta los puntos de traslado de las pinzas, es importante conocer estos traslados, pero en la base, tal como se muestra a continuación.
+        p Después de tener en cuenta los puntos de traslado de las pinzas, es importante conocer estos traslados, pero en la base, tal como se presenta a continuación.
 
     
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6.
+          h5 Figura 8.
           span
             |  Traslados de pinza en base 
         figure.mb-3
-          img(src='@/assets/curso/tema_1/img_12.svg', alt='Traslados de pinza en base')
+          img(src='@/assets/curso/tema_1/img_12.svg', alt='La imagen contiene 9 formas, que representan las secciones descritas en la figura anterior pero de manera individual y mostrando el corte por la línea de traslado de cada una.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
 
     p.mb-5(data-aos="zoom-in-left") Además, se recomienda que consulte el video explicativo sobre cómo se hacen los traslados de pinza correctiva de talles.
 
-    p.BorTit(data-aos="zoom-in-left") Traslados de pinza correctiva de talles
+    
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/encNXGtE15Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -602,7 +619,7 @@
       .col-sm-12.col-lg-8
         p.mt-5 Dentro del desarrollo de moldes y patrones se hace indispensable el manejo de pinzas como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y específico, que es necesario comprender desde la base funcional estructural y matemática.
 
-        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[strong tops] o los #[strong bottoms] y punto de unión o encuentro entre la división del cuerpo.
+        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[strong #[i tops]] o los #[strong #[i bottoms]] y punto de unión o encuentro entre la división del cuerpo.
 
         p En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos, para ello se tiene en cuenta: el contorno de busto, el contorno de cintura y el contorno de cadera. 
 
