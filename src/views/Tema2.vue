@@ -84,7 +84,7 @@
             li 
               i.fas.fa-bullseye.color-acento-botones 
               span.h3.txt_top El ojal
-        p Es una abertura en la tela para pasar los botones, para calcular el alargamiento de este de acuerdo con los diferentes tamaños de botón se considera el tamaño que se presenta en la figura 11. 
+        p Es una abertura en la tela para pasar los botones, para calcular el alargamiento de este de acuerdo con los diferentes tamaños de botón se considera el tamaño que se presenta en la figura 10. 
         p Por ejemplo, al utilizar botones de línea 40 (2,5 cm de diámetro) la extensión del ojal debe ser mayor que el botón (2,75 a 3 cm). De esta manera, el proceso es fácil de realizar al abrochar la ropa, pero el ojal no puede ser tan grande, ya que tiene el riesgo de ver el cuerpo a través del agujero, como se presenta en la siguiente figura.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -226,7 +226,7 @@
           .row.justify-content-center(titulo="Bolsillo básico")
             .col-lg-10
               p Puede ser utilizado en blusas, vestidos, camisetas, etc. Lo primero es definir el tamaño de este según el diseño. 
-              p.mb-5 Ejemplo: realizar un rectángulo de 6 x 12 cm. Desde el centro inferior prolongar 2,5 cm y unir los puntos con una línea recta como indica la figura 9.
+              p.mb-5 Ejemplo: realizar un rectángulo de 6 x 12 cm. Desde el centro inferior prolongar 2,5 cm y unir los puntos con una línea recta como indica la figura 19.
 
               .titulo-sexto.color-acento-contenido
                 h5 Figura 19.
@@ -248,11 +248,14 @@
               figure
                 img(src='@/assets/curso/tema_2/img_17.svg', alt='Se describe el pliegue que puede hacerse al bolsillo incluyendo las medidas')
                 figcaption Nota. Carrera de diseño y gestión de moda (2015)
-
+    .row.justify-content-center
+      .col-sm-12.col-lg-12
+        p.mb-5 Si se requiere el  bolsillo con tapa se realiza otro rectángulo de 6 cm x 5 cm. Del costado superior se baja 3,5 cm y se traza la forma de la punta según el diseño. Por último, se aumenta la costura y el dobladillo, tal como se presenta en la siguiente figura.
+    .row.mb-0.justify-content-center
+      .col-sm-12.col-lg-10
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Bolsillo delantero de un <i>jean</i>")
             .col-lg-10
-              p Si se requiere el #[strong bolsillo con tapa] se realiza otro rectángulo de 6 cm x 5 cm. Del costado superior se baja 3,5 cm y se traza la forma de la punta según el diseño. Por último, se aumenta la costura y el dobladillo, tal como se presenta en la siguiente figura.
-
               p.mb-5 Bolsillo delantero de un #[i jean]: dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
 
               .titulo-sexto.color-acento-contenido
@@ -287,7 +290,7 @@
 
    
     p #[strong Variación del vestido]: partiendo de los básicos y de cada interpretación se genera una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos. 
-    p.mb-5(data-aos="zoom-in-left") Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos explore, siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
+    p.mb-5(data-aos="zoom-in-left") Para que conozca los básicos y las interpretaciones que se generan en una variación de nuevos patrones, en escala ¼ y con medidas de diferentes cuerpos, explore siguiendo los esquemas que aparecen en el manual de patronaje básico e interpretación de diseños en las páginas 59 a la 62.
     .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.px-0
         a.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")

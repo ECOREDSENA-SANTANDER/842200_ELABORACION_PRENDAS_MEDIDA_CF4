@@ -21,7 +21,7 @@
           span
             |  División de moldes según el tipo de prenda
         figure.mb-5
-          img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='La figura presenta una silueta humana, enmarcada desde el cuello hasta los tobillos y dividida en dos por la cintura. Cerca al hombro se lee: bases o básicos superiores acompañado de 3 dibujos de camisetas de diferente tipo. Cerca a la cintura se lee: bases o básicos monoprenda, acompañado del dibujo de un vestido y un overall. Cerca de la rodilla se lee: bases o básicos inferiores, acompañado de tres tipos de pantalones diferentes.')
+          img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='La figura presenta una silueta humana, enmarcada desde el cuello hasta los tobillos y dividida en dos por la cintura. Cerca al hombro se lee: bases o básicos superiores acompañado de 3 dibujos de camisetas de diferente tipo. Cerca a la cintura se lee: bases o básicos monoprenda, acompañado del dibujo de un vestido y un <i>overall</i>. Cerca de la rodilla se lee: bases o básicos inferiores, acompañado de tres tipos de pantalones diferentes.')
           figcaption Nota: SENA (2021)
 
   
@@ -31,8 +31,7 @@
 
     p.mb-3(data-aos="zoom-in-left") Para comenzar el proceso de construcción de moldes se recomienda iniciar con patrones o levantamientos más simples; la falda básica es el primer estilo porque es la prenda más simple; a través de estas líneas se asimila la utilización correcta de cada regla de costura, obteniendo así una mayor seguridad para manejar los siguientes estilos de las medidas a utilizar para el trazo de la falda: contorno de cintura, contorno de cadera y largo de falda.
 
-    p.mb-5(data-aos="zoom-in-left") Analizar la tipología de la falda a desarrollar es importante para determinar qué medida de largo se necesita para generar el rectángulo de inicio para el levantamiento del molde. De acuerdo con su longitud, la falda puede ser:  minifalda, maxi falda, hasta la rodilla y hasta el suelo. Por otro lado, la circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura. 
-
+    p.mb-5(data-aos="zoom-in-left") Analizar la tipología de la falda a desarrollar es importante para determinar la medida de largo que se necesita y generar el rectángulo de inicio para el levantamiento del molde. De acuerdo con su longitud, la falda puede ser:  minifalda, maxi falda, hasta la rodilla y hasta el suelo. Por otro lado, la circunferencia de la cintura puede ser tan baja como por debajo del ombligo y tan alta como por encima de la cintura. 
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8.mx-auto.mb-5
         .titulo-sexto.color-acento-contenido
@@ -71,8 +70,6 @@
             i.fas.fa-bullseye
             | Parte izquierda – delantero. 
 
-        p.mb-5 De igual manera, se recomienda que consulte el video base inferior falda femenino que le permitirá conocer el paso a paso para realizar el básico de una falda.
-      
       .col-sm-12.col-lg-4.d-none.d-lg-block
         figure
           img.img-a(src='@/assets/curso/tema_1/img_3.png')
@@ -88,6 +85,7 @@
               p.my-0 Los puntos de referencia para el trazado de las faldas, p. 13-17.
               p Los patrones básicos para hacer una falda a una pinza y a dos pinzas en escala, p. 31-32.
     
+    p.mb-5 De igual manera, se recomienda que consulte el video: Base inferior falda femenino, que le permitirá conocer el paso a paso para realizar el básico de una falda.
     
     
     figure.mb-5
@@ -95,9 +93,9 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/wl5EjrLU-8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption VIDEO SENA - Base inferior falda femenino
 
-    p.mb-5.txt-18-bold(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
+    p.mb-5(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
 
-    p.f-bold-18.mb-5(data-aos="zoom-in-left") Conozca los pasos detallados para realizar la base de falda  
+    p.mb-5(data-aos="zoom-in-left") Conozca los pasos detallados para realizar la base de falda  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-12.col-md-12.col-lg-8
@@ -619,7 +617,7 @@
       .col-sm-12.col-lg-8
         p.mt-5 Dentro del desarrollo de moldes y patrones se hace indispensable el manejo de pinzas como sistema de ajuste o como insumo principal para el manejo de volúmenes, las pinzas en femenino son un punto de partida primordial y específico, que es necesario comprender desde la base funcional estructural y matemática.
 
-        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[strong #[i tops]] o los #[strong #[i bottoms]] y punto de unión o encuentro entre la división del cuerpo.
+        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[i tops] o los #[i bottoms] y punto de unión o encuentro entre la división del cuerpo.
 
         p En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos, para ello se tiene en cuenta: el contorno de busto, el contorno de cintura y el contorno de cadera. 
 

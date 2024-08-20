@@ -41,7 +41,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Cintura y cadera
+            | Cintura y cadera.
           li 
             .lista-ol--cuadro__vineta
               span 2
@@ -67,19 +67,19 @@
           span
             | Puntos de referencia para una costura.
         figure
-          img(src='@/assets/curso/tema_3/img_4.svg')
+          img(src='@/assets/curso/tema_3/img_4.svg', alt='En la figura se establecen los márgenes de costura  para cintura y cadera de la siguiente manera: Centro frente: 1 cm. Centro atrás 1 cm. Costado delantero 1 cm. Costado posterior 1 cm. la sumatoria:  4 cm de margen de costura por cintura  y cadera. Además se establecen los márgenes de costura para rodilla y bota de la siguiente manera: Costado delantero:  1 cm. Costado posterior: 1 cm. Entrepierna posterior: 1 cm. La sumatoria:  4 cm de margen de costura por rodilla y bota')
           figcaption Nota. SENA (2021).
 
     Separador  
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.2. Distribución de aumentos de costura
 
-    p.mb-5(data-aos="zoom-in-left") Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo, como se presenta en la tabla 1.
+    p.mb-5(data-aos="zoom-in-left") Ya teniendo claro cómo funciona cada uno de los puntos, márgenes de costura y plano del pantalón, lo primero que se debe hacer es el trazo del rectángulo base. Para este rectángulo se debe trabajar el contorno más protuberante y el largo más largo de las partes que se va a cubrir o en este caso, la intersección entre extremidades inferiores y contornos generales del cuerpo, como se presenta en la tabla 3.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .titulo-sexto.color-acento-contenido
-              h5 Tabla 1.
+              h5 Tabla 3.
               span
                 | Aumentos de costura
         figure
@@ -186,7 +186,7 @@
               span
                 |  Línea de tiro
             figure.mb-5
-              img(src='@/assets/curso/tema_3/img_8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema_3/img_8.svg', alt='En la figura se ilustra una línea de tiro, dividida en 4 partes iguales y acompañada de una flecha hacia la izquierda.')
               figcaption Nota.  SENA (2021)
 
             .titulo-sexto.color-acento-contenido
@@ -194,7 +194,7 @@
               span
                 |  División en línea de tiro
             figure
-              img(src='@/assets/curso/tema_3/img_9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema_3/img_9.svg', alt='La figura ilustra una línea de tiro con una división en la mitad. ')
               figcaption Nota. SENA (2021)
         
         
@@ -249,15 +249,15 @@
               span
                 | División en bota
             figure.mb-5
-              img(src='@/assets/curso/tema_3/img_11.png', alt='División en bota')
+              img(src='@/assets/curso/tema_3/img_11.png', alt='La figura presenta una línea recta con una división en la mitad y dos círculos en cada división.')
               figcaption Nota. SENA (2021)
 
             .titulo-sexto.color-acento-contenido
-              h5 Figura 27.
+              h5 Figura 26.
               span
                 |  Aumento en bota
             figure
-              img(src='@/assets/curso/tema_3/img_12.svg', alt='Aumento en bota')
+              img(src='@/assets/curso/tema_3/img_12.svg', alt='La imagen presenta una línea recta igual que la figura anterior, pero en este caso solo hay un circulo y está escrito: + 1cm.')
               figcaption Nota. SENA (2021)
     p.mb-5(data-aos="zoom-in-left") A continuación, se relacionan las #[strong medidas de la parte posterior]
 
@@ -275,21 +275,21 @@
                 | Definir cada una de las partes para realizar el trazo, para lo cual se debe tener en cuenta los mismos pasos de la parte delantera.
 
               ul.lista-ul--color
-                li 
+                li.d-flex 
                   i.lista-ul__vineta
-                  | La cintura se debe ajustar por el centro, atrás y costado, con el fin de tener una mejor horma.
-                li 
+                  p.mb-0 La cintura se debe ajustar por el centro, atrás y costado, con el fin de tener una mejor horma.
+                li.d-flex 
                   i.lista-ul__vineta
-                  | Para identificar los desniveles de cintura se debe ajustar por el centro atrás, 3 centímetros. 
-                li 
+                  p.mb-0 Para identificar los desniveles de cintura se debe ajustar por el centro atrás, 3 centímetros. 
+                li.d-flex 
                   i.lista-ul__vineta
-                  | Desde la línea de tiro por el centro atrás entrar 0.5 cm, para trazar la nueva línea de tiro del centro de atrás en línea recta.
-                li 
+                  p.mb-0 Desde la línea de tiro por el centro atrás entrar 0.5 cm, para trazar la nueva línea de tiro del centro de atrás en línea recta.
+                li.d-flex 
                   i.lista-ul__vineta
-                  | Desde el ajuste de cintura por el centro atrás se marca la medida de cintura.
-                li 
+                  p.mb-0 Desde el ajuste de cintura por el centro atrás se marca la medida de cintura.
+                li.d-flex 
                   i.lista-ul__vineta
-                  | Para la cintura se debe tomar el contorno de cintura / 4 cm + costura + pinza.
+                  p.mb-0 Para la cintura se debe tomar el contorno de cintura / 4 cm + costura + pinza.
 
           
             
@@ -297,72 +297,72 @@
         .row.justify-content-center
           .col-sm-12.col-lg-2
             .titulo-sexto.color-acento-contenido
-              h5 Figura 28.
+              h5 Figura 27.
               span
                 | Pinza en la cintura
             figure
-              img.mb-3(src='@/assets/curso/tema_3/img_14.svg', alt='Texto que describa la imagen')
+              img.mb-3(src='@/assets/curso/tema_3/img_14.svg', alt='La figura presenta una línea recta con una división marcada en la mitad.')
               figcaption Nota.  SENA (2021)
         
           .col-sm-12.col-lg-10
             ol.lista-ol--cuadro.mb-5
-              li 
+              li.d-flex 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 2
-                | Marcar la prolongación por la línea de cadera desde el contorno de cadera / 4 cm + costura. 
+                span Marcar la prolongación por la línea de cadera desde el contorno de cadera / 4 cm + costura. 
 
-              li 
+              li.d-flex  
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 3
-                | Marcar la prolongación por la línea de tiro para escuadrar la medida de línea de cadera por el costado.
+                span Marcar la prolongación por la línea de tiro para escuadrar la medida de línea de cadera por el costado.
 
-              li 
+              li.d-flex  
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 4
-                | Separar el busto y el vértice de pinza desde los básicos; se suelen identificar los puntos de vértice de pinza, los cuales sirven como punto de referencia para cualquier implementación del manual. El vértice de pinza es ½ de medida de cintura, incluyendo la pinza y la costura, como se presenta en la siguiente figura.
+                span Separar el busto y el vértice de pinza desde los básicos; se suelen identificar los puntos de vértice de pinza, los cuales sirven como punto de referencia para cualquier implementación del manual. El vértice de pinza es ½ de medida de cintura, incluyendo la pinza y la costura, como se presenta en la siguiente figura.
 
              
       .tarjeta.bg05.p-4(titulo="Tercera parte")
         .row.justify-content-center
           .col-sm-12.col-lg-2
             .titulo-sexto.color-acento-contenido
-              h5 Figura 29.
+              h5 Figura 28.
               span
                 | Ancho de pinza
             figure
-              img(src='@/assets/curso/tema_3/img_15.svg', alt='Ancho de pinza')
+              img(src='@/assets/curso/tema_3/img_15.svg', alt='La figura detalla la manera para definir el ancho de las pinzas sobre un patrón de un pantalón femenino.')
               figcaption Nota.  SENA (2021)
         
           .col-sm-12.col-lg-10
             ol.lista-ol--cuadro.mb-5
-              li 
+              li.d-flex  
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 5
-                | Definir el ancho de pinza, el cual se compone por primer y segundo lado de pinza, por lo general se suele distribuir el ancho a lado y lado del vértice, es decir, en este caso que la pinza es de 3 cm la distribución se hace desde el vértice de pinza 1.5 cm a cada lado, tal como se presenta en la siguiente figura.
-              li 
+                span Definir el ancho de pinza, el cual se compone por primer y segundo lado de pinza, por lo general se suele distribuir el ancho a lado y lado del vértice, es decir, en este caso que la pinza es de 3 cm la distribución se hace desde el vértice de pinza 1.5 cm a cada lado, tal como se presenta en la siguiente figura.
+              li.d-flex  
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 6
-                | Definir el largo de pinza, el cual se encuentra estandarizado o se puede sacar por medida deducida con 11 centímetros y, desde el vértice de pinza es importante escuadrar por la línea de cintura hacia el centro atrás, teniendo en cuenta la inclinación y dirección de la línea de cintura.
+                span Definir el largo de pinza, el cual se encuentra estandarizado o se puede sacar por medida deducida con 11 centímetros y, desde el vértice de pinza es importante escuadrar por la línea de cintura hacia el centro atrás, teniendo en cuenta la inclinación y dirección de la línea de cintura.
 
       .tarjeta.bg05.p-4(titulo="Cuarta parte")
         
         ol.lista-ol--cuadro
-          li 
+          li.d-flex 
             .lista-ol--cuadro__vineta.color-acento-botones
               span 7
-            | Cerrar pinza, para lo cual se debe unir el primer y el segundo lado de la pinza con el largo de la pinza.
-          li 
+            span Cerrar pinza, para lo cual se debe unir el primer y el segundo lado de la pinza con el largo de la pinza.
+          li.d-flex 
             .lista-ol--cuadro__vineta.color-acento-botones
               span 8
-            | Definir el gancho o extensión de tiro posterior, uniendo la intersección de altura de cadera – centro atrás hasta la extensión de tiro posterior, en curvas encontradas.
-          li 
+            span Definir el gancho o extensión de tiro posterior, uniendo la intersección de altura de cadera – centro atrás hasta la extensión de tiro posterior, en curvas encontradas.
+          li.d-flex 
             .lista-ol--cuadro__vineta.color-acento-botones
               span 9
-            | Definir el ancho de rodilla y ancho de bota sobre la línea de rodilla y bota, en la parte posterior se aumenta el margen de costura asignado a 4 cm de margen de costura, y 2 cm a cada lado.
-          li 
+            span Definir el ancho de rodilla y ancho de bota sobre la línea de rodilla y bota, en la parte posterior se aumenta el margen de costura asignado a 4 cm de margen de costura, y 2 cm a cada lado.
+          li.d-flex 
             .lista-ol--cuadro__vineta.color-acento-botones
               span 10
-            | Cerrar la parte posterior del pantalón, se debe tener en cuenta el mismo trazo y dirección de la parte delantera:
+            span Cerrar la parte posterior del pantalón, se debe tener en cuenta el mismo trazo y dirección de la parte delantera:
         
           ul.lista-ul.px-5
             li 
@@ -384,11 +384,11 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .titulo-sexto.color-acento-contenido
-              h5 Figura 30.
+              h5 Figura 29.
               span
                 | Tipologías de pantalón según largo
         figure
-          img(src='@/assets/curso/tema_3/img_16.svg', alt='Ancho de pinza')
+          img(src='@/assets/curso/tema_3/img_16.svg', alt='La figura presenta un boceto de un  pantalón, con los niveles cadera, tiro, rodilla y tobillo marcados con un línea negra. Adicionalmente se marcan los siguientes tipos de pantalones según el largo: hotlegs: 3.5 cm abajo del nivel del tiro. Shorts: 5cm abajo del nivel del tiro. Jamaica: en la mitad del muslo. Bermuda: arriba de la rodilla. Pedalero: 5cm debajo de la rodilla. Toreador: en la mitad de la pantorrilla. Capri: 3 cm arriba del nivel de tobillo.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015).
               
     p.mb-5(data-aos="zoom-in-left") Consulte el siguiente video con el propósito de que conozca los pasos para la interpretación de prendas inferiores.

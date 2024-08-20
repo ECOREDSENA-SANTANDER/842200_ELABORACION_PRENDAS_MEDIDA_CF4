@@ -46,20 +46,20 @@
                 .col-sm-12.col-lg-6
                   .bg09.p-2
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 31.
+                      h5 Figura 30.
                       span
                         |   Falda con prense cuchilla
                     figure
-                      img(src='@/assets/curso/tema_4/img_3.png', alt='Falda con prense cuchilla')
+                      img(src='@/assets/curso/tema_4/img_3.png', alt='Fotografía de una modelo luciendo una falda tipo prense cuchilla.')
                       figcaption Nota. The Cutting Class (2021)
                 .col-lg-6
                   .bg09.p-2
                     .titulo-sexto.color-acento-contenido
-                      h5 Figura 32.
+                      h5 Figura 31.
                       span
                         |  Prense cuchilla
                     figure
-                      img.mb-4(src='@/assets/curso/tema_4/img_4.svg', alt='Prense cuchilla')
+                      img.mb-4(src='@/assets/curso/tema_4/img_4.svg', alt='La imagen detalla la forma del prense cuchilla.')
                       figcaption Nota.  SENA (2021)
 
         
@@ -78,20 +78,20 @@
             .col-lg-6
               .bg09.p-2
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 33.
+                  h5 Figura 32.
                   span
                     | Prense tabla en falda
                 figure
-                  img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Falda con prense cuchilla')
+                  img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Fotografía de una modelo luciendo una falda con prense tabla.')
                   figcaption Nota. The Cutting Class (2021)
             .col-lg-6
               .bg09.p-2
                 .titulo-sexto.color-acento-contenido
-                  h5 Figura 34.
+                  h5 Figura 33.
                   span
                     |  Prense tabla
                 figure.py-3
-                  img.my-2(src='@/assets/curso/tema_4/img_6.png', alt='Prense cuchilla')
+                  img.my-2(src='@/assets/curso/tema_4/img_6.png', alt='La imagen detalla la forma del prense tabla.')
                   figcaption Nota.  SENA (2021)
 
       .row(titulo="Las alforzas").px-5
@@ -103,27 +103,27 @@
             .col-lg-6
               .bg09.p-2
                   .titulo-sexto.color-acento-contenido
-                    h5 Figura 35.
+                    h5 Figura 34.
                     span
                       | Diseño plano con alforzas
                   figure
-                    img.img-a.mb-2(src='@/assets/curso/tema_4/img_7.png', alt='Diseño plano con alforzas')
+                    img.img-a.mb-2(src='@/assets/curso/tema_4/img_7.png', alt='La figura detalla la forma de un alforza.')
                     figcaption Nota. Pinterest (2021)
             .col-lg-6
               .bg09.p-2
                   .titulo-sexto.color-acento-contenido
-                    h5 Figura 36.
+                    h5 Figura 35.
                     span
                       |  Alforza
                   figure.py-3
-                    img.my-5(src='@/assets/curso/tema_4/img_8.png', alt='Alforza')
+                    img.my-5(src='@/assets/curso/tema_4/img_8.png', alt='Fotografía de una falta con alforzas. ')
                     figcaption Nota.  SENA (2021)
 
       .row(titulo="Drapeados").px-5
         .col-12
           .row.mb-5
             .col-sm-12.col-lg-4
-              p Es la técnica más antigua en cuanto a diseño de prendas de vestir, hoy en día es utilizada en cualquier tipo de prenda. En este caso, la caída de la tela es muy importante para el buen ajuste de los pliegues, es recomendado para todos los tipos de cuerpos, ya que puede favorecer las zonas complicadas en la figura, como se presenta a continuación.
+              p Es la técnica más antigua en cuanto a diseño de prendas de vestir, hoy en día es utilizada en cualquier tipo de prenda. En este caso, la caída de la tela es muy importante para el buen ajuste de los pliegues, es recomendado para todos los tipos de cuerpos, ya que puede favorecer las zonas complicadas en la figura, como se presenta en la figura 36.
               p Se puede drapear cualquier parte del patrón o tipología, creando primero el diseño sobre una muselina, sobre un retal de tela y una vez que esté seguro pasarlo a la tela definitiva, y así evidenciar el comportamiento de la caída según el cuerpo. 
 
             .col-sm-12.col-lg-8
@@ -131,89 +131,97 @@
                 .col-lg-4
                   .bg09.p-2
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 37.
+                        h5 Figura 36.
                         span
                           |  Vestidos drapeados
                       figure
-                        img.pb-3(src='@/assets/curso/tema_4/img_9.png', alt='Diseño plano con alforzas')
+                        img.pb-3(src='@/assets/curso/tema_4/img_9.png', alt='Fotografía de dos modelos sobre una pasarela luciendo vestidos con estilos drapeados.')
                         figcaption Nota. The Cutting Class (2021)
                 .col-lg-4
                   .bg09.p-2.justify-content-center
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 38.
+                        h5 Figura 37.
                         span
                           |  Líneas guías de drapeado
                       figure.text-center
-                        img.py-2(src='@/assets/curso/tema_4/img_35.svg', alt='Alforza')
+                        img.py-2(src='@/assets/curso/tema_4/img_35.svg', alt='La figura presenta un boceto de un vestido con líneas marcadas como guías para realizar un drapeado.')
                         figcaption Nota. Carrera de diseño y gestión de moda (2015)
                 .col-lg-4
                   .bg09.p-2
                       .titulo-sexto.color-acento-contenido
-                        h5 Figura 39.
+                        h5 Figura 38.
                         span
                           |  Apertura de molde
                       figure
-                        img.py-2(src='@/assets/curso/tema_4/img_34.svg', alt='Alforza')
+                        img.py-2(src='@/assets/curso/tema_4/img_34.svg', alt='La figura detalla un molde para un drapeado marcando las líneas guías. ')
                         figcaption Nota. Carrera de diseño y gestión de moda (2015)
-          p.mt-5 Se parte de un patrón básico, una vez trazado se dibujan líneas hacia un punto en específico que será la dirección de la caída; se procede a recortar por las líneas, pero sin llegar al final, se coloca el patrón sobre otro papel y se abren sus trozos en abanico, la apertura depende del volumen buscado en el diseño, como paso final se calca el nuevo patrón, tal como se presenta en las siguientes figuras.
+          p.mt-5 Se parte de un patrón básico, una vez trazado se dibujan líneas hacia un punto en específico que será la dirección de la caída; se procede a recortar por las líneas, pero sin llegar al final, se coloca el patrón sobre otro papel y se abren sus trozos en abanico, la apertura depende del volumen buscado en el diseño, como paso final se calca el nuevo patrón, tal como se presenta en las figuras 37 y 38.
     Separador  
     #t_4_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.3  Escotes, cuellos y solapas
 
-    .row
+    .row.mb-5
       .col-lg-12
-        .cajon.color-acento-contenido.p-4.mb-4
-          p Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.
-
+        p Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote tanto delantero como posterior. Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen de ancho y largo. Los anchos son las medidas que se dan por hombro, desde el punto del cuello hombro, hacia el punto de acromio o por el recorrido del hombro, como se ilustra en las siguientes figuras.
     SlyderF.mb-5(columnas="col-sm-12 col-lg-4 px-0")
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
-          .col-sm-12.col-lg-12.px-0
+          .col-sm-12.col-lg-12.px-3
             .titulo-sexto.color-acento-contenido
-              h5 Figura 40.
+              h5 Figura 39.
               span
                 |  Cuello hombro
-            img(src='@/assets/curso/tema_4/img_31.svg')
+            img(src='@/assets/curso/tema_4/img_31.svg', alt='La figura es un boceto donde se detalla un cuello.')
             figcaption Nota.  SENA (2021)
 
+      .tarjeta
+        .row.justify-content-center.mb-3.p-0.mx-0
+          .col-sm-12.col-lg-12.px-0
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 40.
+                span
+                  |  Cuello disímil
+              img(src='@/assets/curso/tema_4/img_32.svg', alt='En la figura se detalla la curva del escote sobre un molde de una camisa.')
+              figcaption Nota.  SENA (2021)
+              
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 41.
                 span
-                  |  Cuello disímil
-              img(src='@/assets/curso/tema_4/img_32.svg')
-              figcaption Nota.  SENA (2021)
-              
-      .tarjeta
-        .row.justify-content-center.mb-3.p-0.mx-0
-          .col-sm-12.col-lg-12.px-0
-              .titulo-sexto.color-acento-contenido
-                h5 Figura 42.
-                span
                   |  Tipos de escotes
-              img(src='@/assets/curso/tema_4/img_33.svg')
+              img(src='@/assets/curso/tema_4/img_33.svg', alt='La figura es un boceto de una persona con una capucha, por delante y por detrás.')
               figcaption Nota.  SENA (2021)
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
             .titulo-sexto.color-acento-contenido
-              h5 Figura 43.
+              h5 Figura 42.
               span
                 |  Escote cuadrado 
-            img(src='@/assets/curso/tema_4/img_36.svg')
+            img(src='@/assets/curso/tema_4/img_36.svg', alt='La figura es un boceto que detalla la forma del escote cuadrado, por delante y por detrás.')
             figcaption Nota.  SENA (2021)
             
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
           .col-sm-12.col-lg-12.px-0
               .titulo-sexto.color-acento-contenido
-                h5 Figura 44.
+                h5 Figura 43.
                 span
                   |  Escote bandeja
-              img(src='@/assets/curso/tema_4/img_37.svg')
+              img(src='@/assets/curso/tema_4/img_37.svg', alt='En la figura se detalla el molde de un escote tipo bandeja, sobre el molde de una camisa.')
+              figcaption Nota.  SENA (2021)
+              
+      .tarjeta
+        .row.justify-content-center.mb-3.p-0.mx-0
+          .col-sm-12.col-lg-12.px-0
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 44.
+                span
+                  |  Escote en "V"
+              img(src='@/assets/curso/tema_4/img_38.svg', alt='La figura es un boceto que detalla la forma de un escote en V.')
               figcaption Nota.  SENA (2021)
               
       .tarjeta
@@ -222,8 +230,8 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 45.
                 span
-                  |  Escote en "V"
-              img(src='@/assets/curso/tema_4/img_38.svg')
+                  |  Escote tipo blusa
+              img(src='@/assets/curso/tema_4/img_39.svg', alt="La figura es un boceto que detalla la forma de un escote tipo blusa.")
               figcaption Nota.  SENA (2021)
               
       .tarjeta
@@ -232,18 +240,8 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 46.
                 span
-                  |  Escote tipo blusa
-              img(src='@/assets/curso/tema_4/img_39.svg')
-              figcaption Nota.  SENA (2021)
-              
-      .tarjeta
-        .row.justify-content-center.mb-3.p-0.mx-0
-          .col-sm-12.col-lg-12.px-0
-              .titulo-sexto.color-acento-contenido
-                h5 Figura 47.
-                span
                   |  Escote en solapa
-              img(src='@/assets/curso/tema_4/img_40.svg')
+              img(src='@/assets/curso/tema_4/img_40.svg', alt='La figura es un boceto que detalla un escote en solapa.')
               figcaption Nota.  SENA (2021)
               
     p.mb-5 Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión.
@@ -255,7 +253,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/xjSPGOWXJw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador  
-    #t_4_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
+    #t_4_4.titulo-segundo.color-primario
       h2 4.4 Mangas
 
     p En el patronaje las mangas van conectadas no solo al tamaño de los brazos sino también a la postura de la persona, estos son factores que se deben tener en cuenta desde el análisis antropométrico del cliente.
@@ -312,16 +310,24 @@
     p.mb-5 #[strong Análisis de la posición de los brazos]: el análisis de la posición del brazo respecto al cuerpo es muy importante para una perfecta caída de la manga. De hecho, la posición de la manga en el centro del hombro debe adaptarse a la constitución del sujeto y a la posición del brazo. Los principales defectos de posición son el brazo adelantado y el brazo atrasado.
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 48.
+      h5 Figura 47.
       span
         |  Posición de brazos
     figure.mb-5
-      img(src='@/assets/curso/tema_4/img_23.svg', alt='Posición de brazos')
+      img(src='@/assets/curso/tema_4/img_23.svg', alt='La figura presenta, de manera comparativa con tres cuerpos, la forma correcta de la posición de los brazos y donde debe quedar el centro de la manga.')
       figcaption 
         p Nota. Carrera de diseño y gestión de moda (2015)
- 
+
+    h5 Brazo regular
+    p.mb-5 El centro del brazo se alinea exactamente con el centro del cuerpo, por lo que el centro de la manga posicionada en el centro del hombro producirá una caída perfecta.
+
+    h5 Brazo adelantado
+    p.mb-5 Arastra consigo el omóplato y la columna vertebral, de modo que la amplitud y la convexidad del sector posterior aumentan, y el sector anterior se contrae y se aplana. Cuando el brazo está adelantado, el centro de la manga debe desplazarse hacia atrás con respecto al centro del hombro del corpiño. Además, esta constitución aumenta la medida del torso posterior y disminuye la anterior y, por lo tanto, es preciso modificar la base del patrón en la medida necesaria.
+
+    h5 Brazo atrasado
+    p Con este aumenta el hueco del centro de la espalda, mientras que disminuye la protuberancia del omóplato y la inclinación del hombro. Disminuye también el sector torácico posterior y la curva dorsal, y aumenta en cambio la punta del busto. Por lo tanto, será necesario adaptar el modelo a la constitución midiendo cuidadosamente las partes. Con el brazo atrasado, el centro de la manga se desplaza hacia adelante con respecto al centro del hombro del corpiño.
     Separador  
-    #t_4_5.titulo-segundo.color-primario(data-aos="zoom-in-left")
+    #t_4_5.titulo-segundo.color-primario
       h2 4.5 Análisis y comportamiento del patrón manga
 
     p.mb-5 Cuando se habla de manga, básicamente se entiende o identifica como una pieza circular que cubre el brazo; sin embargo, existen diferentes tipos de puntos a tener en cuenta:
@@ -363,24 +369,31 @@
           p.mb-5 Tal como se aprecia en la siguiente figura.
       .col-lg-4
         .titulo-sexto.color-acento-contenido
-          h5 Figura 49.
+          h5 Figura 48.
           span
             |   Tipos de mangas.
         figure.mb-5
-          img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='Tipos de mangas')
+          img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='La figura es un boceto donde se detallan los tipos de manga con líneas de diferente color sobre una camisa: sin manga: justo por el punto de acromio. Manga coqueta: diagonal entre la axila y donde termina el hombro. Manga conta: en la mitad del brazo. Manga alta codo: justo sobre el codo. Manga tres cuartos: en la mitad del antebrazo.')
           figcaption Nota.  SENA (2021)
     .row.mb-5
-      .col-lg-12
+      .col-lg-8
         ol.lista-ol--cuadro.mb-5
           li 
             .lista-ol--cuadro__vineta.color-acento-botones
               span 4
             | #[b Cabeza de manga por cuadro de tallas]
 
-          p.mt-3 Suele ser categorizada para prendas casuales, la medida se identifica en el cuadro de tallas, este tipo de cabeza de manga es estandarizada, no se tiene en cuenta el comportamiento sobre el cuerpo y el tipo de prenda, como se presenta en la siguiente figura (Figura 39).
-
+          p.mt-3 Suele ser categorizada para prendas casuales, la medida se identifica en el cuadro de tallas, este tipo de cabeza de manga es estandarizada, no se tiene en cuenta el comportamiento sobre el cuerpo y el tipo de prenda, como se presenta en la siguiente figura.
+      .col-lg-4
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 49.
+          span
+            |   Cabeza de manga.
+        figure
+          img.img-a(src='@/assets/curso/tema_4/img_25.svg', alt='La figura presenta un boceto donde se detallan dos tipos de cabeza de manga: uno recto y el otro irregular.')
+          figcaption Nota.  SENA (2021)
     .row.mb-5
-      .col-lg-8
+      .col-lg-12
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta.color-acento-botones
@@ -401,14 +414,7 @@
                 i.fas.fa-bullseye
                 | Cabeza de manga estandarizada: las cabezas de manga estandarizadas, suelen ser medidas que, sin explicación alguna, son entregadas para el desarrollo de las prendas.
 
-      .col-lg-4
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 50.
-          span
-            |   Cabeza de manga.
-        figure
-          img.img-a(src='@/assets/curso/tema_4/img_25.svg', alt='Cabeza de manga')
-          figcaption Nota.  SENA (2021)
+      
 
 
     p.mb-5 Para el desarrollo del trazo o marcación de cabeza de manga existen infinidad de formas, fórmulas o metodologías, sin importar el tipo de línea es importante que tenga en cuenta siempre la lógica del comportamiento de las cabezas de manga según el tipo de prenda. 
@@ -416,11 +422,11 @@
     .row.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 51.
+          h5 Figura 50.
           span
             |  Medida de contornos en brazo
         figure.mb-3
-          img.img-a(src='@/assets/curso/tema_4/img_27.svg', alt='Medida de contornos en brazo')
+          img.img-a(src='@/assets/curso/tema_4/img_27.svg', alt='La figura presenta los lugares donde se deben tomar las medidas en el brazo; sobre el biceps, sobre el codo y sobre la muñeca.')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
         p #[strong Circunferencia brazo]: se mide pasando la cinta métrica alrededor de la parte más ancha del brazo, cerca de la axila. 
         p #[strong Circunferencia codo]: se mide la circunferencia en la parte central del codo. 
@@ -428,11 +434,11 @@
      
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 52.
+          h5 Figura 51.
           span
             |  Medida de largo en brazo
         figure.mb-3
-          img.img-a(src='@/assets/curso/tema_4/img_28.svg', alt='Medida de largo en brazo')
+          img.img-a(src='@/assets/curso/tema_4/img_28.svg', alt='La figura describe la manera como se debe tomar la medida de largo del brazo')
           figcaption Nota. Carrera de diseño y gestión de moda (2015)
         p #[strong Largo total brazo]:  se mide a partir de la costura del hombro, en el mismo punto donde se mide el ancho de los hombros, llegando por el codo, con el brazo ligeramente doblado y hasta la articulación del antebrazo con la mano. La altura del codo se mide desde la costura del hombro hasta el hueso del codo.
     p.mb-5 Para el desarrollo del trazo o marcación de cabeza de manga existen infinidad de formas, fórmulas o metodologías; sin embargo, la clasificación anterior hace referencia a lo que se trabaja en el manual, en cualquier línea. Sin importar el tipo de línea es importante que tenga en cuenta siempre la lógica del comportamiento de las cabezas de manga, según el tipo de prenda.

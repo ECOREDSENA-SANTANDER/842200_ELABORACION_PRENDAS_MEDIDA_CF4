@@ -207,7 +207,7 @@ export default {
     },
     {
       referencia: 'Pinterest. (2021). Diseño plano con alforzas. ',
-      link: 'https://co.pinterest.com/pin/469711436140532378/',
+      link: 'https://co.pinterest.com/pin/668362400975891532/',
     },
     {
       referencia:
@@ -363,35 +363,11 @@ export default {
   ],
   complementario: [
     {
-      tema: '1. Fundamentos para el diseño de patrones básicos',
+      tema: 'Patronaje e interpretación de prendas de vestir ',
       referencia:
         'SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero.',
       tipo: 'Manual',
       descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
-    },
-    {
-      tema: '2. Variantes de básicos femeninos',
-      referencia: 'SENA. (2020). Bolsillos.',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo3_Bolsillos.pdf',
-    },
-    {
-      tema: '3. El pantalón femenino y sus variantes',
-      referencia: 'SENA. (2020). Pretinas.',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo4_pretinas.pdf',
-    },
-    {
-      tema: '4. Taller experimental',
-      referencia: 'SENA. (2020). Cuellos',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo1_Cuellos.pdf',
-    },
-    {
-      tema: '4. Taller experimental',
-      referencia: 'SENA. (2020). Mangas.',
-      tipo: 'PDF',
-      descarga: '/downloads/CF4_Anexo2_Mangas.pdf',
     },
   ],
   creditos: [
@@ -406,7 +382,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -415,35 +391,40 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Asesor Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
-          cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
-          cargo: 'Diseñadora instruccional ',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          cargo: 'Diseñadora Instruccional ',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Vilma Lucía Perilla ',
-          cargo: 'Revisora metodológica y pedagógica ',
-          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+          cargo: 'Revisora Metodológica y Pedagógica ',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional ',
+          cargo: 'Diseñadora y Evaluadora Instruccional ',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescun',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -451,19 +432,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yazmin Figueroa Pacheco',
-          cargo: 'Diseñadora web',
-          centro: 'Centro Agroturístico - Regional Santander',
+          nombre: 'Marcos Yamid Rubiano Avellaneda',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Validadora de diseño y contenido',
-          centro: 'Centro Agroturístico - Regional Santander',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -473,17 +459,12 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
