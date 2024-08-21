@@ -250,7 +250,7 @@
     p.BorTit Trazo de escotes y tipos de cuellos
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/xjSPGOWXJw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s?si=3-vIoyz6GmWnbkk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador  
     #t_4_4.titulo-segundo.color-primario
@@ -476,7 +476,7 @@
     p.BorTit Trazo de manga y cabezas de manga
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/EAl_FBfkYUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4?si=dSmjoRRkF8JOVQTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-5
       .col-sm-12.col-lg-6
@@ -506,14 +506,14 @@
       p.BorTit Interpretación de mangas   
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2a81MoVG6Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok?si=NDoa4uu77_s515zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Conozca cómo se interpreta las mangas para sacar el patrón.
 
       p.BorTit Generalidades de manga kimona y ranglan  
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/tJWzjpSmkps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/bsxn_w-kS5Y?si=g4cSIf_4tf6YYJms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Conozca la interpretación de las generalidades de la manga kimona y ranglan.
 
       .row

@@ -213,43 +213,43 @@ export default {
       referencia:
         'SENA. (2020). Análisis e interpretación de pantalón sudadera [video]. YouTube. ',
       link:
-        'https://www.youtube.com/watch?app=desktop&v=xcUi9S-ZqzI&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?app=desktop&v=8vgwqHz6Qio?si=tiGPKAAte-ODbzK2&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
     {
       referencia:
         'SENA. (2020). Análisis y trazo de sistema de ajuste pinzas y cortes [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?v=Tq_3F32nynw&t=1759s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=pb0f6QFi9Y8?si=5LxEL8mnTjbGyIi6&t=1759s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
     {
       referencia:
         'SENA. (2020). Base inferior de pantalón femenino [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?app=desktop&v=7XPqP_3v0L0&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?app=desktop&v=k0-m6ftaKts?si=JPq17VJXCmfUZgkK&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
     {
       referencia:
         'SENA. (2020). Base inferior falda femenino [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?v=wl5EjrLU-8Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=kw9nde2uyBs?si=JSUu75IUfdlvNg9Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
     {
       referencia:
         'SENA. (2020). Generalidades de manga kimona y ranglan [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?app=desktop&v=tJWzjpSmkps&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?app=desktop&v=bsxn_w-kS5Y?si=g4cSIf_4tf6YYJms&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
     {
       referencia: 'SENA. (2020). Interpretación de mangas [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?app=desktop&v=2a81MoVG6Dg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?app=desktop&v=jAAy_cQfRok?si=NDoa4uu77_s515zu&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
       referencia:
         'SENA. (2020). Interpretación de prendas inferiores [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?app=desktop&v=K2SbwvDv7eA&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?app=desktop&v=fkHL3e5EOPI?si=Wcu0WVoyVObLpqBk&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
@@ -270,26 +270,26 @@ export default {
       referencia:
         'SENA. (2020). Traslados de pinza correctiva de talles [video]. YouTube.',
       link:
-        'https://www.youtube.com/watch?v=encNXGtE15Y&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=EpSXWyWzcPo?si=7wMuK33shGHoeBk-&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
       referencia: 'SENA. (2020). Trazo de blusa femenina [video]. YouTube. ',
       link:
-        'https://www.youtube.com/watch?v=euVdaqaTQlY&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=DamxUrw0CZM?si=GdB77qVEzP6BxoAg&t=1523s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
       referencia: 'SENA. (2020). Trazo de faldas rotondas [video]. YouTube. ',
       link:
-        'https://www.youtube.com/watch?v=NxZQL369p9Q&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=DJIfqv1L4FA?si=O_A8hE4p4iOQWpHT&t=918s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {
       referencia:
         'SENA. (2020). Trazo de manga y cabezas de manga. [video]. YouTube.  ',
       link:
-        'https://www.youtube.com/watch?v=EAl_FBfkYUE&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+        'https://www.youtube.com/watch?v=bOKMgtgSzM4?si=dSmjoRRkF8JOVQTs&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
     },
 
     {

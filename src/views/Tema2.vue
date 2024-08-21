@@ -30,7 +30,7 @@
     p.BorTit(data-aos="zoom-in-left") Base superior femenino
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/56vyEeZhA-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MJJln-zDjfc?si=b5nwzsAM3sC4n0jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     Separador  
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -47,7 +47,7 @@
     p.BorTit(data-aos="zoom-in-left") Trazo de blusa femenina 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/euVdaqaTQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DamxUrw0CZM?si=GdB77qVEzP6BxoAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="zoom-in-left") Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, elementos o incluso el tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas indicadas.
 
@@ -306,7 +306,7 @@
     p.BorTit(data-aos="zoom-in-left") Trazo de prendas – bata o vestido
     figure(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/JnFLa4-gUa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eH7LRTKK040?si=8lgiRMETBs1hFY8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

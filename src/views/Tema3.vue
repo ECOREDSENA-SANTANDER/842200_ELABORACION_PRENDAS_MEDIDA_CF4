@@ -113,7 +113,7 @@
     p.BorTit(data-aos="zoom-in-left") Base inferior de pantalón femenino
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/7XPqP_3v0L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/k0-m6ftaKts?si=JPq17VJXCmfUZgkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="zoom-in-left") A continuación, se presentan las medidas a tomar de la #[strong parte delantera] del pantalón femenino
           
@@ -396,12 +396,12 @@
     p.BorTit(data-aos="zoom-in-left") Interpretación de prendas inferiores
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/K2SbwvDv7eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI?si=Wcu0WVoyVObLpqBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5(data-aos="zoom-in-left") Al igual que el video que aparece a continuación, le permitirá conocer los pasos para la interpretación de pantalones y sudaderas.
     p.BorTit(data-aos="zoom-in-left") Análisis e interpretación de pantalón sudadera
     figure(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/xcUi9S-ZqzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=tiGPKAAte-ODbzK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 

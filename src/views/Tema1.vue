@@ -90,7 +90,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/wl5EjrLU-8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kw9nde2uyBs?si=JSUu75IUfdlvNg9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption VIDEO SENA - Base inferior falda femenino
 
     p.mb-5(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
@@ -195,7 +195,7 @@
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/NxZQL369p9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DJIfqv1L4FA?si=O_A8hE4p4iOQWpHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Tipos de faldas rotondas
 
     .row.mb-5(data-aos="zoom-in-left")
@@ -207,7 +207,7 @@
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/xtyPQh3vtuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ?si=Ijcixao4XA0M5WYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: trazo de falda y modificación de básicos de falda
 
     .row.mb-5(data-aos="zoom-in-left")
@@ -605,7 +605,7 @@
     
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/encNXGtE15Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/EpSXWyWzcPo?si=7wMuK33shGHoeBk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     Separador
     #t_1_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -659,7 +659,7 @@
     p.BorTit(data-aos="zoom-in-left") Análisis y trazo de sistema de ajuste pinzas y cortes.
     figure(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Tq_3F32nynw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8?si=5LxEL8mnTjbGyIi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 
   
