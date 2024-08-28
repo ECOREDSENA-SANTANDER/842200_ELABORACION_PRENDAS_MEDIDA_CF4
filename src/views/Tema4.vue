@@ -39,7 +39,7 @@
             .col-sm-12.col-lg-6
               p Debe ser confeccionado, para lo cual se dobla un solo lado por los piquetes en donde se encuentran los excesos de tela, creando un efecto visual como de abanico, donde la tela se dobla hacia adelante y hacia atrás continuamente para que todos los pliegues parezcan apuntar en una dirección alrededor del cuerpo. Finalmente, queda con una medida de cara y una medida de profundidad, como se presenta en las siguientes figuras. 
 
-              p Si ciertos componentes de la fibra se sintetizan artificialmente y los prenses se endurecen por calor, entonces los pliegues realmente permanecerán en la tela. Esta es una de las razones por las que la organización de poliéster puede tener un buen efecto de # [strong plisado]. Si se requiere lograr el mismo efecto, la tela previamente debe ser enviada a la tintorería y luego ser cortada según el molde. Este efecto de plegado se puede lograr también de forma manual, dependiendo de la tela y de los procesos continuos de planchado.
+              p Si ciertos componentes de la fibra se sintetizan artificialmente y los prenses se endurecen por calor, entonces los pliegues realmente permanecerán en la tela. Esta es una de las razones por las que la organización de poliéster puede tener un buen efecto de  plisado. Si se requiere lograr el mismo efecto, la tela previamente debe ser enviada a la tintorería y luego ser cortada según el molde. Este efecto de plegado se puede lograr también de forma manual, dependiendo de la tela y de los procesos continuos de planchado.
           
             .col-sm-12.col-lg-6
               .row.align-items-center
@@ -60,7 +60,7 @@
                         |  Prense cuchilla
                     figure
                       img.mb-4(src='@/assets/curso/tema_4/img_4.svg', alt='La imagen detalla la forma del prense cuchilla.')
-                      figcaption Nota.  SENA (2021)
+                       
 
         
       .row(titulo="Prense chato, caja o tabla").px-5
@@ -92,7 +92,7 @@
                     |  Prense tabla
                 figure.py-3
                   img.my-2(src='@/assets/curso/tema_4/img_6.png', alt='La imagen detalla la forma del prense tabla.')
-                  figcaption Nota.  SENA (2021)
+                   
 
       .row(titulo="Las alforzas").px-5
         .col-sm-12.col-lg-6
@@ -117,7 +117,7 @@
                       |  Alforza
                   figure.py-3
                     img.my-5(src='@/assets/curso/tema_4/img_8.png', alt='Fotografía de una falta con alforzas. ')
-                    figcaption Nota.  SENA (2021)
+                     
 
       .row(titulo="Drapeados").px-5
         .col-12
@@ -172,7 +172,7 @@
               span
                 |  Cuello hombro
             img(src='@/assets/curso/tema_4/img_31.svg', alt='La figura es un boceto donde se detalla un cuello.')
-            figcaption Nota.  SENA (2021)
+             
 
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -180,9 +180,9 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 40.
                 span
-                  |  Cuello disímil
+                  |  Curva disímil
               img(src='@/assets/curso/tema_4/img_32.svg', alt='En la figura se detalla la curva del escote sobre un molde de una camisa.')
-              figcaption Nota.  SENA (2021)
+               
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -192,7 +192,7 @@
                 span
                   |  Tipos de escotes
               img(src='@/assets/curso/tema_4/img_33.svg', alt='La figura es un boceto de una persona con una capucha, por delante y por detrás.')
-              figcaption Nota.  SENA (2021)
+               
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -202,7 +202,7 @@
               span
                 |  Escote cuadrado 
             img(src='@/assets/curso/tema_4/img_36.svg', alt='La figura es un boceto que detalla la forma del escote cuadrado, por delante y por detrás.')
-            figcaption Nota.  SENA (2021)
+             
             
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -212,7 +212,7 @@
                 span
                   |  Escote bandeja
               img(src='@/assets/curso/tema_4/img_37.svg', alt='En la figura se detalla el molde de un escote tipo bandeja, sobre el molde de una camisa.')
-              figcaption Nota.  SENA (2021)
+               
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -222,7 +222,7 @@
                 span
                   |  Escote en "V"
               img(src='@/assets/curso/tema_4/img_38.svg', alt='La figura es un boceto que detalla la forma de un escote en V.')
-              figcaption Nota.  SENA (2021)
+               
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -232,7 +232,7 @@
                 span
                   |  Escote tipo blusa
               img(src='@/assets/curso/tema_4/img_39.svg', alt="La figura es un boceto que detalla la forma de un escote tipo blusa.")
-              figcaption Nota.  SENA (2021)
+               
               
       .tarjeta
         .row.justify-content-center.mb-3.p-0.mx-0
@@ -242,16 +242,16 @@
                 span
                   |  Escote en solapa
               img(src='@/assets/curso/tema_4/img_40.svg', alt='La figura es un boceto que detalla un escote en solapa.')
-              figcaption Nota.  SENA (2021)
+               
               
-    p.mb-5 Los nombres de la forma en los cuellos varía de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión.
+    p.mb-5 Los nombres de la forma en los cuellos varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión.
     p.mb-5 En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.
 
     p.BorTit Trazo de escotes y tipos de cuellos
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s?si=3-vIoyz6GmWnbkk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Trazo de escotes y tipos de cuellos.
     Separador  
     #t_4_4.titulo-segundo.color-primario
       h2 4.4 Mangas
@@ -314,7 +314,7 @@
       span
         |  Posición de brazos
     figure.mb-5
-      img(src='@/assets/curso/tema_4/img_23.svg', alt='La figura presenta, de manera comparativa con tres cuerpos, la forma correcta de la posición de los brazos y donde debe quedar el centro de la manga.')
+      img(src='@/assets/curso/tema_4/img_23.svg', alt='La figura presenta, de manera comparativa con tres cuerpos, la forma correcta de la posición de los brazos (brazos adelantados, brazos regulares y brazos atrasados), y dónde debe quedar el centro de la manga.')
       figcaption 
         p Nota. Carrera de diseño y gestión de moda (2015)
 
@@ -373,8 +373,8 @@
           span
             |   Tipos de mangas.
         figure.mb-5
-          img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='La figura es un boceto donde se detallan los tipos de manga con líneas de diferente color sobre una camisa: sin manga: justo por el punto de acromio. Manga coqueta: diagonal entre la axila y donde termina el hombro. Manga conta: en la mitad del brazo. Manga alta codo: justo sobre el codo. Manga tres cuartos: en la mitad del antebrazo.')
-          figcaption Nota.  SENA (2021)
+          img.img-a(src='@/assets/curso/tema_4/img_24.svg', alt='La figura es un boceto donde se detallan los tipos de manga con líneas de diferente punteadas sobre una camisa: sin manga: justo por el punto de acromio. Manga coqueta: diagonal entre la axila y donde termina el hombro. Manga conta: en la mitad del brazo. Manga alta codo: justo sobre el codo. Manga tres cuartos: en la mitad del antebrazo.')
+           
     .row.mb-5
       .col-lg-8
         ol.lista-ol--cuadro.mb-5
@@ -391,7 +391,7 @@
             |   Cabeza de manga.
         figure
           img.img-a(src='@/assets/curso/tema_4/img_25.svg', alt='La figura presenta un boceto donde se detallan dos tipos de cabeza de manga: uno recto y el otro irregular.')
-          figcaption Nota.  SENA (2021)
+           
     .row.mb-5
       .col-lg-12
         ol.lista-ol--cuadro
@@ -477,7 +477,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4?si=dSmjoRRkF8JOVQTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Trazo de manga y cabezas de manga.
     .row.mb-5
       .col-sm-12.col-lg-6
         p.mb-5 De igual manera, consulte el manual de patronaje básico para interpretación de diseños, con el fin de que conozca las formas para sacar o deducir la altura de la cabeza de manga, para ello lea las páginas 26 a la 44. 
@@ -507,14 +507,14 @@
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok?si=NDoa4uu77_s515zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Conozca cómo se interpreta las mangas para sacar el patrón.
+        figcaption Video. Conozca cómo se interpreta las mangas para sacar el patrón.
 
       p.BorTit Generalidades de manga kimona y ranglan  
 
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/bsxn_w-kS5Y?si=g4cSIf_4tf6YYJms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Conozca la interpretación de las generalidades de la manga kimona y ranglan.
+        figcaption Video. Generalidades de manga kimona y ranglan.
 
       .row
         .col-sm-12.col-lg-6

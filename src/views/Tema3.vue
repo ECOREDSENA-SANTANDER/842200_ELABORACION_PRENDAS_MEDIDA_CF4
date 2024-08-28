@@ -11,10 +11,7 @@
     p.mb-5(data-aos="zoom-in-left") La tipología del pantalón parte de una base inferior y se refiere a una copia de la horma del cuerpo que parte de la cintura hasta el suelo, dicha base, será la plantilla que se adecuará para convertirse en diferentes tipologías según las modificaciones de largos, amplitudes, detalles y cortes. De las variaciones de pantalón femenino se pueden obtener los básicos de #[i short, capri, jean], bermudas, entre otros.
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        .bloque-texto-f.bg07.pt-5.px-5.mb-5
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left
-            i.fas.fa-quote-right
+        .cajon.color-primario.p-4.mb-4
           .h4.text-regular.bloque-texto-f__texto.mt-1.text-center Amelia Bloomer, defensora de los derechos de las mujeres en Estados Unidos quiso introducir los pantalones en la ropa de las mujeres. Se inspiró en el estilo turco y creó una falda que se podía usar con pantalones debajo, su propuesta se consideró una amenaza en ese momento y su labor no tuvo éxito.
           
 
@@ -68,7 +65,7 @@
             | Puntos de referencia para una costura.
         figure
           img(src='@/assets/curso/tema_3/img_4.svg', alt='En la figura se establecen los márgenes de costura  para cintura y cadera de la siguiente manera: Centro frente: 1 cm. Centro atrás 1 cm. Costado delantero 1 cm. Costado posterior 1 cm. la sumatoria:  4 cm de margen de costura por cintura  y cadera. Además se establecen los márgenes de costura para rodilla y bota de la siguiente manera: Costado delantero:  1 cm. Costado posterior: 1 cm. Entrepierna posterior: 1 cm. La sumatoria:  4 cm de margen de costura por rodilla y bota')
-          figcaption Nota. SENA (2021).
+          
 
     Separador  
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -82,9 +79,35 @@
               h5 Tabla 3.
               span
                 | Aumentos de costura
-        figure
+        .bg11.px-5.py-4
+          .tabla-a.table-cus.color-acento-contenido
+            table
+              thead
+                tr
+                  th  &nbsp;
+                  th.f-table.w-td-table3.td-border-lf-rg Delantero 
+                  th.f-table.w-td-table3.td-border-lf-rg Posterior 
+                  th.f-table.w-td-table3 Total
+              tbody
+                tr
+                  td Cintura 
+                  td.text-center.td-border-lf-rg 2 cm
+                  td.text-center.td-border-lf-rg 2 cm
+                  td.text-center 4 cm
+                tr
+                  td Cadera 
+                  td.text-center.td-border-lf-rg 1 cm
+                  td.text-center.td-border-lf-rg 3 cm
+                  td.text-center 4 cm
+                tr
+                  td Rodilla - Bota 
+                  td.text-center.td-border-lf-rg 0 cm
+                  td.text-center.td-border-lf-rg 4 cm
+                  td.text-center 4 cm
+        
+        //figure
           img(src='@/assets/curso/tema_3/img_5.svg', alt='Aumentos de costura')
-          figcaption Nota. Tomados del SENA (2021)
+          
 
     Separador  
     #t_3_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -187,7 +210,7 @@
                 |  Línea de tiro
             figure.mb-5
               img(src='@/assets/curso/tema_3/img_8.svg', alt='En la figura se ilustra una línea de tiro, dividida en 4 partes iguales y acompañada de una flecha hacia la izquierda.')
-              figcaption Nota.  SENA (2021)
+              
 
             .titulo-sexto.color-acento-contenido
               h5 Figura 24.
@@ -195,7 +218,7 @@
                 |  División en línea de tiro
             figure
               img(src='@/assets/curso/tema_3/img_9.svg', alt='La figura ilustra una línea de tiro con una división en la mitad. ')
-              figcaption Nota. SENA (2021)
+              
         
         
       
@@ -250,7 +273,7 @@
                 | División en bota
             figure.mb-5
               img(src='@/assets/curso/tema_3/img_11.png', alt='La figura presenta una línea recta con una división en la mitad y dos círculos en cada división.')
-              figcaption Nota. SENA (2021)
+              
 
             .titulo-sexto.color-acento-contenido
               h5 Figura 26.
@@ -258,8 +281,8 @@
                 |  Aumento en bota
             figure
               img(src='@/assets/curso/tema_3/img_12.svg', alt='La imagen presenta una línea recta igual que la figura anterior, pero en este caso solo hay un circulo y está escrito: + 1cm.')
-              figcaption Nota. SENA (2021)
-    p.mb-5(data-aos="zoom-in-left") A continuación, se relacionan las #[strong medidas de la parte posterior]
+              
+    p.mb-5(data-aos="zoom-in-left") A continuación, se relacionan las #[strong medidas de la parte posterior:]
 
     TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
       .tarjeta.bg05.p-4(titulo="Primera parte")
@@ -302,7 +325,7 @@
                 | Pinza en la cintura
             figure
               img.mb-3(src='@/assets/curso/tema_3/img_14.svg', alt='La figura presenta una línea recta con una división marcada en la mitad.')
-              figcaption Nota.  SENA (2021)
+              
         
           .col-sm-12.col-lg-10
             ol.lista-ol--cuadro.mb-5
@@ -331,7 +354,7 @@
                 | Ancho de pinza
             figure
               img(src='@/assets/curso/tema_3/img_15.svg', alt='La figura detalla la manera para definir el ancho de las pinzas sobre un patrón de un pantalón femenino.')
-              figcaption Nota.  SENA (2021)
+              
         
           .col-sm-12.col-lg-10
             ol.lista-ol--cuadro.mb-5
@@ -397,12 +420,13 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI?si=Wcu0WVoyVObLpqBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Interpretación de prendas inferiores
     p.mb-5(data-aos="zoom-in-left") Al igual que el video que aparece a continuación, le permitirá conocer los pasos para la interpretación de pantalones y sudaderas.
     p.BorTit(data-aos="zoom-in-left") Análisis e interpretación de pantalón sudadera
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=tiGPKAAte-ODbzK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+      figcaption Video. Análisis e interpretación de pantalón sudadera.
 </template>
 
 <script>

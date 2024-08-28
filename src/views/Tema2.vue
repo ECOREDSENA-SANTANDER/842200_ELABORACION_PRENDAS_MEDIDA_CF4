@@ -256,7 +256,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center(titulo="Bolsillo delantero de un <i>jean</i>")
             .col-lg-10
-              p.mb-5 Bolsillo delantero de un #[i jean]: dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
+              p.mb-5 Dibujar el bolsillo utilizando el patrón delantero del pantalón. Trazar la boca del bolsillo, teniendo en cuenta que se debe calcular que pueda pasar la mano, la cual requiere tener también una profundidad adecuada. Hacer falsos o vueltas y luego se aumentan las costuras y el dobladillo. 
 
               .titulo-sexto.color-acento-contenido
                 h5 Figura 21.
@@ -307,7 +307,7 @@
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eH7LRTKK040?si=8lgiRMETBs1hFY8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Trazo de prendas – bata o vestido
 
 
 </template>

@@ -22,7 +22,7 @@
             |  División de moldes según el tipo de prenda
         figure.mb-5
           img.img-a(src='@/assets/curso/tema_1/img_1.png', alt='La figura presenta una silueta humana, enmarcada desde el cuello hasta los tobillos y dividida en dos por la cintura. Cerca al hombro se lee: bases o básicos superiores acompañado de 3 dibujos de camisetas de diferente tipo. Cerca a la cintura se lee: bases o básicos monoprenda, acompañado del dibujo de un vestido y un <i>overall</i>. Cerca de la rodilla se lee: bases o básicos inferiores, acompañado de tres tipos de pantalones diferentes.')
-          figcaption Nota: SENA (2021)
+          
 
   
     Separador  
@@ -91,11 +91,11 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/kw9nde2uyBs?si=JSUu75IUfdlvNg9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO SENA - Base inferior falda femenino
+      figcaption Video. Base inferior falda femenino
 
     p.mb-5(data-aos="zoom-in-left") A partir de la información consultada en el manual y en el video explicativo, a continuación, se presentan los pasos detallados para realizar la base de falda. 
 
-    p.mb-5(data-aos="zoom-in-left") Conozca los pasos detallados para realizar la base de falda  
+    p.mb-5(data-aos="zoom-in-left") Conozca los pasos detallados para realizar la base de falda: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-12.col-md-12.col-lg-8
@@ -196,7 +196,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/DJIfqv1L4FA?si=O_A8hE4p4iOQWpHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Tipos de faldas rotondas
+      figcaption Video. Trazo de faldas rotondas 
 
     .row.mb-5(data-aos="zoom-in-left")
       .col-lg-12
@@ -208,7 +208,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ?si=Ijcixao4XA0M5WYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: trazo de falda y modificación de básicos de falda
+      figcaption Video. Trazo de falda y modificación de básicos de falda
 
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5
@@ -233,7 +233,7 @@
 
     p.mb-5(data-aos="zoom-in-left") Para realizar este trazo se debe tener en cuenta el volumen de la prenda, las medidas a utilizar y los pasos para el trazo de la base superior femenina. 
 
-    .row.mb-5.justify-content-center(data-aos="zoom-in-left")
+    //.row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6.bg02.mt-5
           h2.text-center.mb-0.my-1 Trazo de base superior femenina
 
@@ -404,7 +404,7 @@
                   span.lista-ul__vineta #[strong Anchos]: 
                     | se mide desde el centro del cuello hasta donde se desee que abra el escote en el lateral, corresponde a 1/5 contorno de cuello.
                 li 
-                  span.lista-ul__vineta #[strong Ajuste de fórmula]:
+                  span.lista-ul__vineta #[strong Ajuste de fórmula]: 
                     | en la forma 1/5 de contorno de cuello + 0.3, a nivel industrial se busca dejar siempre medidas que se encaran del mismo ancho, esto con el fin de facilitar los procesos de producción; sin embargo, al dejar un escote más ancho que otro se otorga mayor ajuste al cuerpo, mejor horma e incrementa los costos de producción. Marcar la curva de escote posterior con un curvígrafo.
 
           
@@ -438,7 +438,7 @@
 
     .row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8.bg02
-          h5.text-center.mb-0.my-2.pb-2 La siguiente infografía relaciona los pasos detallados para realizar la base delantera superior femenina.
+          h5.text-center.mb-0.my-2.pb-2 A continuación, se relacionan los pasos detallados para realizar la base delantera superior femenina.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -449,13 +449,13 @@
             .bg03.p-5
               p 
                 strong Trazar un rectángulo con las medidas correspondientes del cliente:  
-              ul.lista-ul.mb-3
-                li 
-                  i.lista-ul__vineta
-                  | #[strong Ancho ]: contorno de busto/4. 
-                li 
-                  i.lista-ul__vineta
-                  | #[strong Largo ]: largo de talle posterior.
+              ul.lista-ul--color.mb-0
+                li.d-flex 
+                  i.fas.fa-bullseye.color-acento-botones
+                  span  #[strong Ancho ]: contorno de busto/4. 
+                li.d-flex 
+                  i.fas.fa-bullseye.color-acento-botones
+                  span  #[strong Largo ]: largo de talle posterior.
 
           .py-4.py-md-5(titulo="PASO 2")
             .bg03.p-5
@@ -476,16 +476,16 @@
               p 
                 strong Identificar cada una de las líneas que divide el cuerpo y por las que va a pasar la base.
 
-              ul.lista-ul.mb-3
-                li 
-                  span.lista-ul__vineta #[strong Largos]: 
-                    | Largos: para identificar la profundidad del escote es necesario marcar desde el punto de cintura – centro frente hacia la línea de cuello la medida de centro frente.
-                li 
-                  span.lista-ul__vineta #[strong Ancho de escote]: 
-                    | el ancho de escote sale por fórmula, que corresponde a 1/5 contorno de cuello.
-                li 
-                  span.lista-ul__vineta #[strong Ajuste de fórmula]: 
-                    | en la forma 1/5 de contorno de cuello – 0.5 cm a nivel industrial se busca dejar siempre medidas que se encaran del mismo ancho, esto con el fin de facilitar los procesos de producción; sin embargo, al dejar un escote más ancho que otro se otorga mayor ajuste al cuerpo, mejor horma e incrementa los costos de producción. Marcar la curva de escote delantero con curvígrafo.
+              ul.lista-ul--color.mb-5
+                li.d-flex 
+                  i.fas.fa-bullseye.color-acento-botones
+                  span   #[strong Largos]:   para identificar la profundidad del escote es necesario marcar desde el punto de cintura – centro frente hacia la línea de cuello la medida de centro frente.
+                li.d-flex 
+                  i.fas.fa-bullseye.color-acento-botones
+                  span  #[strong Ancho de escote]:  el ancho de escote sale por fórmula, que corresponde a 1/5 contorno de cuello.
+                li.d-flex 
+                  i.fas.fa-bullseye.color-acento-botones
+                  span  #[strong Ajuste de fórmula]: en la forma 1/5 de contorno de cuello – 0.5 cm a nivel industrial se busca dejar siempre medidas que se encaran del mismo ancho, esto con el fin de facilitar los procesos de producción; sin embargo, al dejar un escote más ancho que otro se otorga mayor ajuste al cuerpo, mejor horma e incrementa los costos de producción. Marcar la curva de escote delantero con curvígrafo.
           
           .py-4.py-md-5(titulo="PASO 6")
             .bg03.p-5
@@ -606,7 +606,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/EpSXWyWzcPo?si=7wMuK33shGHoeBk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+      figcaption Video. Traslados de pinza correctiva de talles
+
     Separador
     #t_1_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.4 Análisis y trazo de sistema de ajuste
@@ -660,7 +661,9 @@
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8?si=5LxEL8mnTjbGyIi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+      figcaption Video. Análisis y trazo de sistema de ajuste pinzas y cortes.
+
+
 
   
 </template>

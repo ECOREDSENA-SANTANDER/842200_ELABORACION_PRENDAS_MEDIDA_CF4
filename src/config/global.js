@@ -261,13 +261,6 @@ export default {
 
     {
       referencia:
-        'SENA. (2011). Manual de patronaje básico e interpretación de diseños. ',
-      link:
-        ' https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
-    },
-
-    {
-      referencia:
         'SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero. ',
       link:
         'https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1',
@@ -320,7 +313,7 @@ export default {
     {
       termino: 'Antropometría',
       significado:
-        'parte de la Antropología que estudia las proporciones y medidas del cuerpo humano. La antropometría es una técnica auxiliar de la paleontología.',
+        'parte de la antropología que estudia las proporciones y medidas del cuerpo humano. La antropometría es una técnica auxiliar de la paleontología.',
     },
     {
       termino: 'Aplomo',
@@ -358,7 +351,7 @@ export default {
         'son pliegues blandos de tela, cercanos a las costuras y orientados hacia el interior del cuerpo.',
     },
     {
-      termino: 'Medida deducidar',
+      termino: 'Medida deducida',
       significado:
         'cuadro de tallas y medidas industriales para la elaboración de patrones de prendas de vestir.',
     },
@@ -405,12 +398,12 @@ export default {
         {
           nombre: 'Leidy Johana Velásquez Hernández',
           cargo: 'Experta Temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          centro: 'Regional Antioquia - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta Temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          centro: 'Regional Antioquia - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
