@@ -175,11 +175,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -187,7 +182,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.pdf',
+        download: 'downloads/842200_CF4_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -361,27 +356,19 @@ export default {
         'pliegue que se cose en la tela para darle una forma determinada.',
     },
   ],
-  complementario: [
-    {
-      tema: 'Patronaje e interpretación de prendas de vestir ',
-      referencia:
-        'SENA. (2011). Manual de patronaje básico e interpretación de diseños. Centro de Manufactura en Textiles y Cuero.',
-      tipo: 'Manual',
-      descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
-    },
-  ],
+  complementario: [],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -391,39 +378,39 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Pedagógico',
+          cargo: 'Asesor pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Regional Antioquia - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Regional Antioquia - Diseño, Confección y Moda',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
-          cargo: 'Diseñadora Instruccional ',
+          cargo: 'Diseñadora instruccional ',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Vilma Lucía Perilla ',
-          cargo: 'Revisora Metodológica y Pedagógica ',
+          cargo: 'Revisora metodológica y pedagógica ',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y Evaluadora Instruccional ',
+          cargo: 'Diseñadora y evaluadora instruccional ',
           centro:
             'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Carolina Jiménez Suescun',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -433,22 +420,22 @@ export default {
       autores: [
         {
           nombre: 'Marcos Yamid Rubiano Avellaneda',
-          cargo: 'Diseñador Web',
+          cargo: 'Diseñador web',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -458,7 +445,7 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

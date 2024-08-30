@@ -84,7 +84,7 @@
             table
               thead
                 tr
-                  th  &nbsp;
+                  th.f-table  Intersección entre extremidades
                   th.f-table.w-td-table3.td-border-lf-rg Delantero 
                   th.f-table.w-td-table3.td-border-lf-rg Posterior 
                   th.f-table.w-td-table3 Total
