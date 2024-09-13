@@ -657,7 +657,6 @@
       .col-lg-12
         p Con el fin de que conozca cómo se realiza el trazo de sistemas de ajuste de pinzas y cortes consulte el video análisis y trazo de sistema de ajuste pinzas y cortes que aparece a continuación.
 
-    p.BorTit(data-aos="zoom-in-left") Análisis y trazo de sistema de ajuste pinzas y cortes.
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8?si=5LxEL8mnTjbGyIi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

@@ -133,11 +133,10 @@
 
     p.mb-5(data-aos="zoom-in-left") De igual forma, consulte el siguiente video que le permitirá conocer cómo realizar la base inferior del pantalón femenino.
 
-    p.BorTit(data-aos="zoom-in-left") Base inferior de pantalón femenino
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/k0-m6ftaKts?si=JPq17VJXCmfUZgkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Base inferior de pantalón femenino
     p.mb-5(data-aos="zoom-in-left") A continuación, se presentan las medidas a tomar de la #[strong parte delantera] del pantalón femenino
           
     SlyderA(tipo="b").bg08.px-5.mb-5.py-3(data-aos="zoom-in-left")
@@ -252,7 +251,7 @@
               li 
                 .lista-ol--cuadro__vineta.color-acento-botones
                   span 8
-                | #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se presenta en las imagenes división en bota y aumento en bota.  
+                | #[strong Definir ancho de rodilla y ancho de bota]: en el trazo de pantalón para poder identificar el ancho de rodilla es necesario identificar el ancho de bota, se sugiere aumentar por bota, desde la línea de aplome aumentar 8 cm a cada lado, como medida estándar, sin importar la talla o medidas del cliente; sin embargo, existen varias fórmulas o medidas deducidas que van acordes a la talla para sacar el ancho de bota, en este caso se sugiere utilizar la división y el aumento de la bota, para la cual su identificación se realizará teniendo en cuenta el ancho de rodilla, como se presenta en las imágenes división en bota y aumento en bota.  
 
             .row.justify-content-center
               .col-lg-12
@@ -416,13 +415,13 @@
               
     p.mb-5(data-aos="zoom-in-left") Consulte el siguiente video con el propósito de que conozca los pasos para la interpretación de prendas inferiores.
 
-    p.BorTit(data-aos="zoom-in-left") Interpretación de prendas inferiores
+    
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI?si=Wcu0WVoyVObLpqBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Interpretación de prendas inferiores
+      figcaption Video. Interpretación de prendas inferiores
     p.mb-5(data-aos="zoom-in-left") Al igual que el video que aparece a continuación, le permitirá conocer los pasos para la interpretación de pantalones y sudaderas.
-    p.BorTit(data-aos="zoom-in-left") Análisis e interpretación de pantalón sudadera
+    
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=tiGPKAAte-ODbzK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

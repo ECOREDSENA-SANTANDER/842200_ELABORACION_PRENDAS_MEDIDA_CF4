@@ -157,7 +157,7 @@
                         figcaption Nota. Carrera de diseño y gestión de moda (2015)
           p.mt-5 Se parte de un patrón básico, una vez trazado se dibujan líneas hacia un punto en específico que será la dirección de la caída; se procede a recortar por las líneas, pero sin llegar al final, se coloca el patrón sobre otro papel y se abren sus trozos en abanico, la apertura depende del volumen buscado en el diseño, como paso final se calca el nuevo patrón, tal como se presenta en las figuras 37 y 38.
     Separador  
-    #t_4_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
+    #t_4_3.titulo-segundo.color-primario
       h2 4.3  Escotes, cuellos y solapas
 
     .row.mb-5
@@ -247,7 +247,7 @@
     p.mb-5 Los nombres de la forma en los cuellos varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo. Para el trazo de cuellos se trabajó bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos: cuellos por medida de contorno, por unión de hombro y por extensión.
     p.mb-5 En el siguiente video puede consultar el paso a paso para el trazo de escotes y tipos de cuellos.
 
-    p.BorTit Trazo de escotes y tipos de cuellos
+   
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s?si=3-vIoyz6GmWnbkk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -473,7 +473,7 @@
             img(src='@/assets/curso/tema_4/img_29.png', alt='Trazo de cabeza de manga')
 
       
-    p.BorTit Trazo de manga y cabezas de manga
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4?si=dSmjoRRkF8JOVQTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -503,28 +503,31 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p Por tanto, es importante que consulte tanto los videos que se presentan a continuación, como el manual de patronaje básico e interpretación de diseños, teniendo en cuenta las páginas de lectura indicadas.
 
-      p.BorTit Interpretación de mangas   
+     
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok?si=NDoa4uu77_s515zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Conozca cómo se interpreta las mangas para sacar el patrón.
+        figcaption Video. Interpretación de mangas
 
-      p.BorTit Generalidades de manga kimona y ranglan  
+      
 
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/bsxn_w-kS5Y?si=g4cSIf_4tf6YYJms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Generalidades de manga kimona y ranglan.
 
-      .row
-        .col-sm-12.col-lg-6
+      .row.justify-content-center
+        .col-sm-12.col-lg-10
           a.mb-5.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf-2.svg")
                 .anexo__texto
                   p.my-0 #[strong Anexo]. Manual de patronaje básico e interpretación de diseños. 
                   p Conozca el esquema de la manga kimona, p. 48. 
-        .col-sm-12.col-lg-6
+                  p Conozca el esquema de la manga ranglan formal e informal, p. 49-50. 
+                  p Conozca el esquema de la manga, p.51-53. 
+
+        //.col-sm-12.col-lg-6
 
           a.mb-5.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 .anexo__icono
@@ -532,7 +535,7 @@
                 .anexo__texto
                   p.my-0 #[strong Anexo]. Manual de patronaje básico e interpretación de diseños. 
                   p Conozca el esquema de la manga ranglan formal e informal, p. 49-50. 
-      .row.justify-content-center
+      //.row.justify-content-center
         .col-sm-12.col-lg-6
           a.mb-5.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 .anexo__icono

@@ -27,11 +27,10 @@
         p Para que conozca de manera explicativa cómo se realiza el trazo de blusa femenina consulte el video que se presenta a continuación.
 
     
-    p.BorTit(data-aos="zoom-in-left") Base superior femenino
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/MJJln-zDjfc?si=b5nwzsAM3sC4n0jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+      figcaption Video. Base superior femenino
     Separador  
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.2 Trazo blusa con almilla y cuello camisero
@@ -44,11 +43,11 @@
 
         p En el siguiente video podrá conocer de manera explicativa cómo se elabora una blusa con almilla y con cuello camisero.
 
-    p.BorTit(data-aos="zoom-in-left") Trazo de blusa femenina 
+    
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/DamxUrw0CZM?si=GdB77qVEzP6BxoAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Trazo de blusa femenina 
     p.mb-5(data-aos="zoom-in-left") Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, elementos o incluso el tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas indicadas.
 
     Separador  
@@ -303,7 +302,7 @@
 
     p.mb-5(data-aos="zoom-in-left") De igual forma, para que conozca cómo realizar el trazo de prendas como batas y vestidos consulte el siguiente video.
 
-    p.BorTit(data-aos="zoom-in-left") Trazo de prendas – bata o vestido
+    
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eH7LRTKK040?si=8lgiRMETBs1hFY8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
