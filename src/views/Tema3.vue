@@ -135,7 +135,7 @@
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/k0-m6ftaKts?si=JPq17VJXCmfUZgkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mwQKsq8F4wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Base inferior de pantalón femenino
     p.mb-5(data-aos="zoom-in-left") A continuación, se presentan las medidas a tomar de la #[strong parte delantera] del pantalón femenino
           
@@ -418,13 +418,13 @@
     
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI?si=Wcu0WVoyVObLpqBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ryt13s0i0MQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Interpretación de prendas inferiores
     p.mb-5(data-aos="zoom-in-left") Al igual que el video que aparece a continuación, le permitirá conocer los pasos para la interpretación de pantalones y sudaderas.
     
     figure(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/8vgwqHz6Qio?si=tiGPKAAte-ODbzK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DjZ8_5oFUck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Análisis e interpretación de pantalón sudadera.
 </template>
 

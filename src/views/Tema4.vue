@@ -250,7 +250,7 @@
    
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s?si=3-vIoyz6GmWnbkk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Fd19HkRegQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Trazo de escotes y tipos de cuellos.
     Separador  
     #t_4_4.titulo-segundo.color-primario
@@ -476,7 +476,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4?si=dSmjoRRkF8JOVQTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/OW9pbGduLBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Trazo de manga y cabezas de manga.
     .row.mb-5
       .col-sm-12.col-lg-6
@@ -506,14 +506,14 @@
      
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok?si=NDoa4uu77_s515zu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/brjPw6zwFoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Interpretación de mangas
 
       
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/bsxn_w-kS5Y?si=g4cSIf_4tf6YYJms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Lu36CdMzP40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Generalidades de manga kimona y ranglan.
 
       .row.justify-content-center
