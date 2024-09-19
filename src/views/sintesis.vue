@@ -7,7 +7,7 @@
       .row.justify-content-center
         .col-lg-10.mb-5
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="La documentación técnica se da bajo el contexto técnico y sus requisitos, que a su vez responden a la orientación web y/o de software, teniendo en cuenta los estándares y las buenas prácticas documentales.")
+            img(src="@/assets/curso/sintesis.svg", alt="En el diagrama se presentan los temas trabajados dentro del componente: fundamentos para el diseño de patrones básicos, variantes básicas femeninos, pantalón femenino y sus variantes. adicionalmente, en cada uno de los temas se relacionan los diferentes trazos tratados.")
         .col-auto
           a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
             .anexo__icono
