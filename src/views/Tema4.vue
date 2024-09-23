@@ -50,7 +50,7 @@
                       span
                         |   Falda con prense cuchilla
                     figure
-                      img(src='@/assets/curso/tema_4/img_3.png', alt='Fotografía de una modelo luciendo una falda tipo prense cuchilla.')
+                      img(src='@/assets/curso/tema_4/img_41.svg', alt='Fotografía de una modelo luciendo una falda tipo prense cuchilla.')
                       figcaption Nota. The Cutting Class (2021)
                 .col-lg-6
                   .bg09.p-2
@@ -82,7 +82,7 @@
                   span
                     | Prense tabla en falda
                 figure
-                  img.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Fotografía de una modelo luciendo una falda con prense tabla.')
+                  img.img-a(src='@/assets/curso/tema_4/img_42.svg', alt='Fotografía de una modelo luciendo una falda con prense tabla.')
                   figcaption Nota. The Cutting Class (2021)
             .col-lg-6
               .bg09.p-2
@@ -107,7 +107,7 @@
                     span
                       | Diseño plano con alforzas
                   figure
-                    img.img-a.mb-2(src='@/assets/curso/tema_4/img_7.png', alt='La figura detalla la forma de un alforza.')
+                    img.img-a.mb-2(src='@/assets/curso/tema_4/img_43.svg', alt='La figura detalla la forma de un alforza.')
                     figcaption Nota. Pinterest (2021)
             .col-lg-6
               .bg09.p-2
@@ -135,7 +135,7 @@
                         span
                           |  Vestidos drapeados
                       figure
-                        img.pb-3(src='@/assets/curso/tema_4/img_9.png', alt='Fotografía de dos modelos sobre una pasarela luciendo vestidos con estilos drapeados.')
+                        img.pb-3(src='@/assets/curso/tema_4/img_44.svg', alt='Fotografía de dos modelos sobre una pasarela luciendo vestidos con estilos drapeados.')
                         figcaption Nota. The Cutting Class (2021)
                 .col-lg-4
                   .bg09.p-2.justify-content-center
