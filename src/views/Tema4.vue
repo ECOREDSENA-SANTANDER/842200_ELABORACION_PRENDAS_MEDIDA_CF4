@@ -480,7 +480,7 @@
       figcaption Video. Trazo de manga y cabezas de manga.
     .row.mb-5
       .col-sm-12.col-lg-6
-        p.mb-5 De igual manera, consulte el manual de patronaje básico para interpretación de diseños, con el fin de que conozca las formas para sacar o deducir la altura de la cabeza de manga, para ello lea las páginas 26 a la 44. 
+        p.mb-5 De igual manera, consulte el manual de patronaje básico para interpretación de diseños, con el fin de que conozca las formas para sacar o deducir la altura de la cabeza de manga, revise las páginas 26 a la 44. 
 
       .col-sm-12.col-lg-6
           a.mb-5.anexo.ml-0-cus(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
